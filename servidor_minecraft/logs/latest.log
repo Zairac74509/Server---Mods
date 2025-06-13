@@ -3348,3 +3348,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [13Jun2025 18:54:14.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [13Jun2025 18:54:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [13Jun2025 18:54:14.520] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[13Jun2025 18:59:16.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:56451] logged in with entity id 10249 at (-553.4721929215401, 76.9375, 190.21484974584615)
+[13Jun2025 18:59:16.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[13Jun2025 18:59:16.467] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[13Jun2025 18:59:16.467] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 18:59:16.468] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[13Jun2025 18:59:18.667] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[13Jun2025 18:59:18.667] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[13Jun2025 19:00:09.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sweet Dreams]
+[13Jun2025 19:00:21.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:50689] logged in with entity id 10648 at (-158.79939774659147, 63.0625, -186.19425518298644)
+[13Jun2025 19:00:21.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[13Jun2025 19:00:21.410] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[13Jun2025 19:00:21.410] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 19:00:21.410] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[13Jun2025 19:00:24.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[13Jun2025 19:00:24.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[13Jun2025 19:05:26.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Acquire Hardware]
