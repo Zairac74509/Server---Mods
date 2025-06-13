@@ -3364,3 +3364,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [13Jun2025 19:00:24.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
 [13Jun2025 19:00:24.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
 [13Jun2025 19:05:26.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Acquire Hardware]
+[13Jun2025 19:08:15.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Iron Golem
+[13Jun2025 19:08:15.133] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Zairac74509 at X: -541.4133899353164, Y: 75.0, Z: 197.60024154493127
+[13Jun2025 19:08:26.438] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/15499, l='ServerLevel[world]', x=-541.41, y=76.50, z=197.60]
+[13Jun2025 19:08:26.438] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/15499, l='ServerLevel[world]', x=-541.41, y=76.50, z=197.60]
+[13Jun2025 19:09:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Stone Age]
+[13Jun2025 19:09:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Getting an Upgrade]
+[13Jun2025 19:10:01.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Stone Age]
+[13Jun2025 19:11:23.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Getting an Upgrade]
+[13Jun2025 19:11:57.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sweet Dreams]
+[13Jun2025 19:12:52.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[13Jun2025 19:12:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[13Jun2025 19:12:52.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[13Jun2025 19:12:52.824] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
