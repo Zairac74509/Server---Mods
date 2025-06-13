@@ -1,0 +1,106 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-06-13 18:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-06-13 18:30:18 +0000",
+      "minecraft:snowy_taiga": "2025-06-13 18:28:05 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-13 18:28:04 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
