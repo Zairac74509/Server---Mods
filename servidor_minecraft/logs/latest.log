@@ -3299,3 +3299,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [13Jun2025 18:34:26.013] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
 [13Jun2025 18:34:28.126] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
 [13Jun2025 18:34:28.126] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[13Jun2025 18:39:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Bison
+[13Jun2025 18:39:27.175] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Zairac74509 at X: -139.24440803642938, Y: 66.0, Z: 6.369353575770124
+[13Jun2025 18:39:52.427] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/2489, l='ServerLevel[world]', x=-139.24, y=67.50, z=6.37]
+[13Jun2025 18:39:52.427] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/2489, l='ServerLevel[world]', x=-139.24, y=67.50, z=6.37]
+[13Jun2025 18:40:04.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Gravedigger]
+[13Jun2025 18:40:18.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:34877] logged in with entity id 2829 at (-22.5, 63.0, 63.5)
+[13Jun2025 18:40:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[13Jun2025 18:40:18.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[13Jun2025 18:40:18.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Jun2025 18:40:18.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[13Jun2025 18:40:19.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ice and Fire Delight]
+[13Jun2025 18:40:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ice and Fire]
+[13Jun2025 18:40:21.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[13Jun2025 18:40:21.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[13Jun2025 18:41:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Zombie
+[13Jun2025 18:41:36.430] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for camilxdk1 at X: -22.399425858531846, Y: 63.0, Z: 67.72285249404185
+[13Jun2025 18:41:45.530] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player camilxdk1 picking up: PermanentItemEntity['Extradimensional Vessel'/3410, l='ServerLevel[world]', x=-22.40, y=64.50, z=67.72]
+[13Jun2025 18:41:45.530] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/3410, l='ServerLevel[world]', x=-22.40, y=64.50, z=67.72]
+[13Jun2025 18:41:46.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Monster Hunter]
+[13Jun2025 18:41:58.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Darkness Lies Ahead]
+[13Jun2025 18:42:03.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Tusklin
+[13Jun2025 18:42:03.628] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Zairac74509 at X: -249.76249998807907, Y: 65.0, Z: 54.14517751291408
+[13Jun2025 18:42:53.241] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/3800, l='ServerLevel[world]', x=-249.76, y=66.50, z=54.15]
+[13Jun2025 18:42:53.241] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/3800, l='ServerLevel[world]', x=-249.76, y=66.50, z=54.15]
+[13Jun2025 18:43:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Tusklin
+[13Jun2025 18:43:27.432] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Zairac74509 at X: -252.63489420707617, Y: 63.0, Z: 45.88809663345898
+[13Jun2025 18:45:46.596] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Jun2025 18:45:46.604] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[13Jun2025 18:45:46.604] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md91c932$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[13Jun2025 18:45:48.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Acquire Hardware]
+[13Jun2025 18:46:01.136] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/4554, l='ServerLevel[world]', x=-252.63, y=64.50, z=45.89]
+[13Jun2025 18:46:01.136] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/4554, l='ServerLevel[world]', x=-252.63, y=64.50, z=45.89]
+[13Jun2025 18:47:23.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/5966, l='ServerLevel[world]', x=-517.50, y=64.00, z=257.52] died, message: 'Nitwit suffocated in a wall'
+[13Jun2025 18:47:35.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6131, l='ServerLevel[world]', x=-555.28, y=70.00, z=257.63] died, message: 'Villager suffocated in a wall'
+[13Jun2025 18:47:38.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6147, l='ServerLevel[world]', x=-551.63, y=76.00, z=211.72] died, message: 'Villager suffocated in a wall'
+[13Jun2025 18:47:38.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6149, l='ServerLevel[world]', x=-552.63, y=76.00, z=200.72] died, message: 'Villager suffocated in a wall'
+[13Jun2025 18:52:56.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[13Jun2025 18:52:56.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[13Jun2025 18:52:56.929] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[13Jun2025 18:54:14.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[13Jun2025 18:54:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[13Jun2025 18:54:14.520] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
