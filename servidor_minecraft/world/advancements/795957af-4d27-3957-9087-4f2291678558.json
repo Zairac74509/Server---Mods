@@ -3759,6 +3759,12 @@
     },
     "done": false
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-14 16:47:21 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "main": "2025-06-14 16:19:27 +0000"
