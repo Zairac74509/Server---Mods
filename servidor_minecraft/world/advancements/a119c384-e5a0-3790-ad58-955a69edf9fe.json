@@ -1550,9 +1550,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-14 16:33:56 +0000",
       "minecraft:frozen_river": "2025-06-14 16:33:25 +0000",
+      "minecraft:snowy_plains": "2025-06-14 16:33:29 +0000",
       "minecraft:stony_shore": "2025-06-14 16:07:13 +0000",
+      "minecraft:grove": "2025-06-14 16:34:43 +0000",
       "minecraft:forest": "2025-06-14 16:08:35 +0000",
+      "minecraft:frozen_peaks": "2025-06-14 16:34:23 +0000",
       "minecraft:plains": "2025-06-14 16:10:33 +0000"
     },
     "done": false

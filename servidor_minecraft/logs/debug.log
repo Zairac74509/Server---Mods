@@ -12012,3 +12012,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 16:33:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ol' Betsy]
 [14Jun2025 16:33:27.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 16:33:27.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 16:38:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Ferrous Wroughtnaut
+[14Jun2025 16:38:16.145] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 16:38:27.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 16:38:27.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 16:38:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra burned to death
+[14Jun2025 16:38:29.644] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage
+[14Jun2025 16:40:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Ferrous Wroughtnaut
+[14Jun2025 16:40:49.871] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 16:41:26.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 was slain by Ferrous Wroughtnaut, they gave up
+[14Jun2025 16:41:28.227] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 1
+[14Jun2025 16:41:28.273] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[14Jun2025 16:42:10.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Ferrous Wroughtnaut
+[14Jun2025 16:42:12.390] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage
+[14Jun2025 16:43:27.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 16:43:27.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
