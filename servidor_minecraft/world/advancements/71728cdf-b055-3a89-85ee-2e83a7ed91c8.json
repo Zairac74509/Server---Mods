@@ -100,12 +100,17 @@
       "minecraft:snowy_slopes": "2025-06-14 02:04:37 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-14 03:01:34 +0000",
       "minecraft:taiga": "2025-06-14 02:08:17 +0000",
+      "minecraft:frozen_river": "2025-06-14 15:55:28 +0000",
       "minecraft:river": "2025-06-14 02:03:34 +0000",
       "minecraft:stony_shore": "2025-06-14 01:55:41 +0000",
+      "minecraft:snowy_plains": "2025-06-14 15:55:10 +0000",
       "minecraft:dripstone_caves": "2025-06-14 02:57:29 +0000",
       "minecraft:cold_ocean": "2025-06-14 02:15:05 +0000",
       "minecraft:forest": "2025-06-14 01:54:09 +0000",
       "minecraft:lush_caves": "2025-06-14 03:01:39 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-14 15:58:07 +0000",
+      "minecraft:frozen_ocean": "2025-06-14 15:56:12 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-14 15:56:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-14 03:01:36 +0000",
       "minecraft:plains": "2025-06-14 01:56:58 +0000"
     },
@@ -757,6 +762,8 @@
     "criteria": {
       "cooked_porkchop": "2025-06-14 02:05:38 +0000",
       "sweet_berries": "2025-06-14 02:13:16 +0000",
+      "cooked_beef": "2025-06-14 15:43:07 +0000",
+      "baked_potato": "2025-06-14 15:50:03 +0000",
       "porkchop": "2025-06-14 02:03:02 +0000",
       "apple": "2025-06-14 02:01:39 +0000",
       "mutton": "2025-06-14 02:12:03 +0000",
@@ -1225,6 +1232,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-14 02:11:59 +0000",
+      "minecraft:spider": "2025-06-14 15:45:02 +0000",
       "minecraft:zombie": "2025-06-14 02:44:48 +0000"
     },
     "done": false
@@ -2048,7 +2056,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-06-14 02:36:40 +0000"
+      "sweet_berries": "2025-06-14 02:36:40 +0000",
+      "potato": "2025-06-14 15:48:17 +0000"
     },
     "done": false
   },
@@ -3666,9 +3675,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-14 15:56:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 15:50:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-14 15:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-14 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-14 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-14 15:47:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-14 15:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-14 15:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-14 15:56:44 +0000"
     },
     "done": true
   },
@@ -3678,15 +3735,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-14 15:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-14 15:41:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-14 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-06-14 15:56:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-14 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-14 15:56:44 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-06-14 15:57:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-14 15:47:46 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2025-06-14 15:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-14 15:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-14 15:45:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-06-14 15:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-14 15:56:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-14 15:50:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-14 15:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-14 15:56:42 +0000"
     },
     "done": true
   },

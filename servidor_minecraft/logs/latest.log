@@ -872,3 +872,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 15:42:30.540] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
 [14Jun2025 15:42:30.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
 [14Jun2025 15:46:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Shared Location:S:-31:78:-346:10:false:0:Internal-overworld-waypoints
+[14Jun2025 15:47:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Take Aim]
+[14Jun2025 15:47:58.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 15:47:58.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 15:47:58.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 15:47:58.214] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jun2025 15:48:59.949] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b409d2e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:51997) lost connection: Disconnected
+[14Jun2025 15:56:24.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ice Maze]
+[14Jun2025 15:56:40.808] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[14Jun2025 15:56:40.809] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdab7095$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[14Jun2025 16:02:43.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:42151] logged in with entity id 8053 at (-26.8195371647787, 72.0, -381.0277207967537)
+[14Jun2025 16:02:43.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[14Jun2025 16:02:43.556] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[14Jun2025 16:02:43.557] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 16:02:43.557] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[14Jun2025 16:02:45.766] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[14Jun2025 16:02:45.767] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[14Jun2025 16:03:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Who You Gonna Call?]
+[14Jun2025 16:04:00.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Shared Location:S:216:72:-42:13:false:0:Internal-overworld-waypoints
+[14Jun2025 16:05:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was shot by Skeleton
+[14Jun2025 16:05:55.062] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for camilxdk1 at X: -31.72184491235696, Y: 75.0, Z: -317.4955333797173
+[14Jun2025 16:06:24.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.36563088972554425
+[14Jun2025 16:06:24.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.42164200818798037
+[14Jun2025 16:06:24.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.37967488205422484
+[14Jun2025 16:06:24.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.3374209416372125
+[14Jun2025 16:06:36.957] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
