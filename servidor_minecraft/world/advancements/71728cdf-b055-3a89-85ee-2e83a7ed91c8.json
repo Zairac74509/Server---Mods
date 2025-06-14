@@ -1240,9 +1240,12 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 16:31:40 +0000",
       "minecraft:skeleton": "2025-06-14 02:11:59 +0000",
+      "minecraft:ravager": "2025-06-14 17:24:09 +0000",
+      "minecraft:vindicator": "2025-06-14 17:29:38 +0000",
       "minecraft:spider": "2025-06-14 15:45:02 +0000",
       "minecraft:evoker": "2025-06-14 17:23:11 +0000",
       "minecraft:enderman": "2025-06-14 16:13:52 +0000",
+      "minecraft:vex": "2025-06-14 17:24:08 +0000",
       "minecraft:zombie": "2025-06-14 02:44:48 +0000",
       "minecraft:zombie_villager": "2025-06-14 16:04:49 +0000"
     },
@@ -2435,9 +2438,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-06-14 02:51:51 +0000"
+      "has_parent_recipe": "2025-06-14 02:51:51 +0000",
+      "has_items": "2025-06-14 17:29:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
@@ -3891,6 +3895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-14 17:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-14 16:05:59 +0000"
@@ -4554,6 +4564,12 @@
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-06-14 16:56:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-14 17:29:52 +0000"
     },
     "done": true
   },

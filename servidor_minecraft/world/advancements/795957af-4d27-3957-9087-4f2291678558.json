@@ -3809,6 +3809,12 @@
     },
     "done": false
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-14 17:30:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/resurrect": {
     "criteria": {
       "resurrected": "2025-06-14 16:23:04 +0000",
@@ -3887,6 +3893,12 @@
       "main": "2025-06-14 16:19:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-14 17:30:50 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {

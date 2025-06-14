@@ -12269,3 +12269,82 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 17:25:34.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43121, l='ServerLevel[world]', x=149.57, y=72.42, z=-753.69] died, message: 'Villager was slain by Ice Dragon'
 [14Jun2025 17:25:40.816] [Worker-Main-20/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 0.19s
 [14Jun2025 17:26:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[14Jun2025 17:28:07.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44068, l='ServerLevel[world]', x=208.20, y=80.50, z=-823.80] died, message: 'Villager was pricked to death'
+[14Jun2025 17:28:27.822] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[14Jun2025 17:28:28.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 17:28:28.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 17:28:34.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 was slain by Ice Dragon, they gave up
+[14Jun2025 17:28:35.644] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 1
+[14Jun2025 17:28:35.647] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[14Jun2025 17:29:26.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45401, l='ServerLevel[world]', x=124.47, y=85.50, z=-797.04] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:29:29.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:203:95:-811:4:false:0:Internal-overworld-waypoints
+[14Jun2025 17:29:47.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.hunter'/45427, l='ServerLevel[world]', x=199.23, y=94.50, z=-800.20] died, message: 'entity.minecraft.villager.more_villargers.hunter was pricked to death'
+[14Jun2025 17:30:03.921] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [f569d087-f179-4927-98de-499163aa2ded]
+[14Jun2025 17:30:09.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [481364a0-eaf6-43ba-868e-e0dc7b80a891]
+[14Jun2025 17:30:10.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Stay dead]
+[14Jun2025 17:30:14.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45539, l='ServerLevel[world]', x=149.59, y=77.00, z=-823.39] died, message: 'Villager was frozen by Ice Dragon'
+[14Jun2025 17:30:35.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [f569d087-f179-4927-98de-499163aa2ded]
+[14Jun2025 17:31:44.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[14Jun2025 17:32:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 experienced kinetic energy
+[14Jun2025 17:32:07.316] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 17:32:07.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/45360, l='ServerLevel[world]', x=193.83, y=94.50, z=-794.83] died, message: 'Villager was pricked to death'
+[14Jun2025 17:32:29.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 went off with a bang thanks to Archevoker
+[14Jun2025 17:32:30.857] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 17:32:33.431] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/45287, l='ServerLevel[world]', x=199.98, y=93.50, z=-797.78] died, message: 'Villager was pricked to death'
+[14Jun2025 17:32:42.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/45245, l='ServerLevel[world]', x=195.46, y=76.41, z=-770.30] died, message: 'entity.minecraft.villager.more_villargers.hunter was turned to ice by Ice Dragon'
+[14Jun2025 17:32:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was caught by Archevoker's fangs
+[14Jun2025 17:32:57.439] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 17:33:04.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46078, l='ServerLevel[world]', x=222.14, y=66.94, z=-762.49] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:33:21.952] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:hunter at BlockPos{x=183, y=102, z=-789} with badomen level 0
+[14Jun2025 17:33:27.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 17:33:27.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 17:33:29.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was caught by Archevoker's fangs
+[14Jun2025 17:33:31.064] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 17:33:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Adventure Mode]
+[14Jun2025 17:33:35.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:33:37.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Adventure Mode]
+[14Jun2025 17:33:40.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:33:48.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/45299, l='ServerLevel[world]', x=156.49, y=84.00, z=-773.76] died, message: 'entity.minecraft.villager.more_villargers.hunter was slain by Vampire Hunter'
+[14Jun2025 17:33:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 suffocated in a wall whilst fighting Ice Dragon
+[14Jun2025 17:33:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Tools of the Trade]
+[14Jun2025 17:33:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Premium!]
+[14Jun2025 17:33:50.351] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 1
+[14Jun2025 17:33:50.353] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[14Jun2025 17:33:53.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Adventure Mode]
+[14Jun2025 17:34:00.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/49236, l='ServerLevel[world]', x=156.24, y=84.00, z=-775.30] died, message: 'Farmer was slain by Vampire Hunter'
+[14Jun2025 17:34:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[14Jun2025 17:34:17.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/49204, l='ServerLevel[world]', x=220.83, y=67.02, z=-742.38] died, message: 'Weaponsmith was slain by Vampire Hunter'
+[14Jun2025 17:34:21.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/49413, l='ServerLevel[world]', x=210.22, y=79.50, z=-825.18] died, message: 'Villager was pricked to death'
+[14Jun2025 17:34:26.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/49312, l='ServerLevel[world]', x=173.63, y=98.00, z=-815.24] died, message: 'entity.minecraft.villager.more_villargers.hunter was slain by Vampire Hunter'
+[14Jun2025 17:34:34.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/49407, l='ServerLevel[world]', x=145.00, y=73.00, z=-832.24] died, message: 'Villager was slain by Vampire Hunter'
+[14Jun2025 17:34:41.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fletcher'/49391, l='ServerLevel[world]', x=172.71, y=98.00, z=-815.52] died, message: 'Fletcher was slain by Vampire Hunter'
+[14Jun2025 17:34:43.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[14Jun2025 17:34:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:34:50.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:34:50.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:34:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:34:52.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:34:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:34:54.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:34:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:35:10.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was turned to ice by a dragon
+[14Jun2025 17:35:11.818] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 1
+[14Jun2025 17:35:11.821] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[14Jun2025 17:35:54.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49873, l='ServerLevel[world]', x=151.67, y=67.00, z=-716.68] died, message: 'Villager was slain by Zombie'
+[14Jun2025 17:35:55.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 walked into a cactus whilst trying to escape Ice Dragon
+[14Jun2025 17:35:56.177] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 1
+[14Jun2025 17:35:56.180] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[14Jun2025 17:36:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:36:11.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:36:19.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/50365, l='ServerLevel[world]', x=204.14, y=63.94, z=-734.50] died, message: 'Weaponsmith was slain by Vampire Hunter'
+[14Jun2025 17:36:29.504] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1248, y=72, z=-928}
+[14Jun2025 17:36:29.506] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1271, y=60, z=-891}
+[14Jun2025 17:36:29.515] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1248, y=72, z=-928}
+[14Jun2025 17:36:29.518] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1271, y=60, z=-891}
+[14Jun2025 17:36:29.519] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.62 and blood value 15 for entity iceandfire:hippogryph
+[14Jun2025 17:36:29.523] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1248, y=72, z=-928}
+[14Jun2025 17:36:29.525] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1271, y=60, z=-891}
+[14Jun2025 17:36:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was turned to ice by Ice Dragon
+[14Jun2025 17:36:39.594] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 1
+[14Jun2025 17:36:39.597] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
+[14Jun2025 17:36:49.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/50904, l='ServerLevel[world]', x=189.11, y=74.00, z=-757.35] died, message: 'entity.minecraft.villager.more_villargers.hunter was slain by Werewolf'
