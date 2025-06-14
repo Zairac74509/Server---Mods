@@ -2700,3 +2700,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 18:41:37.111] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
 [14Jun2025 18:41:37.112] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
 [14Jun2025 18:48:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Free Willy]
+[14Jun2025 18:48:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sunken City]
+[14Jun2025 18:48:55.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14Jun2025 18:49:12.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[14Jun2025 18:50:38.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 1.1821788402517086
+[14Jun2025 18:50:38.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.9190831078021802
+[14Jun2025 18:50:38.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 1.133000380964404
+[14Jun2025 18:50:38.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.8649751580342127
+[14Jun2025 18:50:38.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.9895286925711844
+[14Jun2025 18:50:38.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.7164076189983462
+[14Jun2025 18:50:38.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.6211298001371688
+[14Jun2025 18:50:38.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved wrongly! 0.3384291810780269
+[14Jun2025 18:52:57.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Vampire Hunter
+[14Jun2025 18:55:14.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/106992, l='ServerLevel[world]', x=560.50, y=55.00, z=141.50]
+[14Jun2025 18:58:12.026] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Jun2025 18:58:12.027] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Jun2025 18:58:16.302] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[14Jun2025 18:58:16.304] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[14Jun2025 18:58:19.955] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Jun2025 18:58:19.972] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Jun2025 18:58:26.994] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[14Jun2025 18:58:35.706] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[14Jun2025 18:58:36.509] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[14Jun2025 18:58:36.509] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Jun2025 18:58:36.509] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Jun2025 18:58:54.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 19:01:10.679] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 19:01:26.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Called Your Bluff]
+[14Jun2025 19:03:00.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Ice Scream]
+[14Jun2025 19:05:11.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[14Jun2025 19:05:11.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 19:05:11.799] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 19:05:19.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 19:05:19.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 19:05:19.502] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 19:05:41.033] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f8b1171[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:57863) lost connection: Disconnected
+[14Jun2025 19:05:47.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:50557] logged in with entity id 115113 at (3234.0376531106413, 175.1875, -3082.2977615010946)
+[14Jun2025 19:05:47.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 19:05:47.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 19:05:47.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 19:05:47.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 19:05:48.707] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 19:05:48.708] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[14Jun2025 19:06:26.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:41077] logged in with entity id 115473 at (292.64906185258315, 88.8500000178814, 582.8452159608436)
+[14Jun2025 19:06:26.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[14Jun2025 19:06:26.757] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[14Jun2025 19:06:26.757] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 19:06:26.757] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[14Jun2025 19:06:26.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[14Jun2025 19:06:26.892] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[14Jun2025 19:08:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [You Must Believe]
+[14Jun2025 19:15:05.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was eviscerated by Archevoker's vexes
+[14Jun2025 19:20:44.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Gravedigger]
+[14Jun2025 19:23:03.610] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/124566, l='ServerLevel[world]', x=-198.31, y=86.00, z=406.84]
+[14Jun2025 19:23:31.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2653979197608578
+[14Jun2025 19:23:31.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9952032706671048
+[14Jun2025 19:23:31.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.7333145267773489
+[14Jun2025 19:23:31.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.1639953846865296
+[14Jun2025 19:23:31.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.5840004094049505
+[14Jun2025 19:23:34.140] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 19:25:59.333] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 19:25:59.333] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 19:27:08.348] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 19:27:08.349] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 19:28:32.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 was slain by Vindicator, they gave up
+[14Jun2025 19:29:00.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind

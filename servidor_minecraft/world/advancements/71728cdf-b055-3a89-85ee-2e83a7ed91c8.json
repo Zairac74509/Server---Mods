@@ -106,6 +106,8 @@
       "minecraft:savanna_plateau": "2025-06-14 18:45:18 +0000",
       "minecraft:beach": "2025-06-14 18:21:15 +0000",
       "minecraft:dark_forest": "2025-06-14 18:39:49 +0000",
+      "minecraft:stony_peaks": "2025-06-14 19:00:06 +0000",
+      "minecraft:sparse_jungle": "2025-06-14 18:51:48 +0000",
       "minecraft:river": "2025-06-14 02:03:34 +0000",
       "minecraft:lukewarm_ocean": "2025-06-14 18:47:26 +0000",
       "minecraft:stony_shore": "2025-06-14 01:55:41 +0000",
@@ -118,8 +120,10 @@
       "minecraft:deep_cold_ocean": "2025-06-14 15:58:07 +0000",
       "minecraft:frozen_ocean": "2025-06-14 15:56:12 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-14 15:56:24 +0000",
+      "minecraft:jungle": "2025-06-14 18:57:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-14 03:01:36 +0000",
       "minecraft:snowy_beach": "2025-06-14 18:17:14 +0000",
+      "minecraft:warm_ocean": "2025-06-14 18:50:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-14 18:47:56 +0000",
       "minecraft:frozen_peaks": "2025-06-14 16:33:34 +0000",
       "minecraft:meadow": "2025-06-14 17:13:15 +0000",
@@ -1254,6 +1258,7 @@
       "minecraft:vindicator": "2025-06-14 17:29:38 +0000",
       "minecraft:spider": "2025-06-14 15:45:02 +0000",
       "minecraft:evoker": "2025-06-14 17:23:11 +0000",
+      "minecraft:phantom": "2025-06-14 18:54:01 +0000",
       "minecraft:enderman": "2025-06-14 16:13:52 +0000",
       "minecraft:stray": "2025-06-14 18:15:46 +0000",
       "minecraft:vex": "2025-06-14 17:24:08 +0000",
@@ -4752,6 +4757,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-14 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-14 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-14 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2025-06-14 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/gray_bar_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-06-14 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2025-06-14 18:05:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray": {
+    "criteria": {
+      "has_wool": "2025-06-14 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/light_gray_bar_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-06-14 18:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
@@ -4764,219 +4841,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/flame_arrow_bag": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-06-14 18:40:20 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/cooking/weird_jelly_block": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_light_gray": {
-    "criteria": {
-      "has_wool": "2025-06-14 18:06:03 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
-    "criteria": {
-      "has_item": "2025-06-14 18:08:07 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/chandelier_candle": {
-    "criteria": {
-      "has_honey": "2025-06-14 18:40:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-06-14 18:05:59 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/food/pure_sorbet": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/building_blocks/light_gray_bar_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 18:23:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 18:23:42 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-14 18:22:35 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/hunter_table": {
-    "criteria": {
-      "has_fang": "2025-06-14 18:07:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 18:08:07 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-06-14 18:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-06-14 18:05:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-06-14 18:23:42 +0000"
     },
     "done": true
   },
@@ -4992,45 +4865,9 @@
     },
     "done": true
   },
-  "ice_and_fire_delight:kill_pixie": {
-    "criteria": {
-      "killed_pixie": "2025-06-14 18:30:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-06-14 18:08:34 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/root": {
-    "criteria": {
-      "main": "2025-06-14 18:07:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-06-14 18:30:24 +0000"
     },
     "done": true
   },
@@ -5040,99 +4877,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-06-14 18:22:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_gray": {
-    "criteria": {
-      "has_wool": "2025-06-14 18:05:59 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
-    "criteria": {
-      "has_blood_bottle": "2025-06-14 18:07:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-06-14 18:22:39 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/building_blocks/gray_bar_stool": {
-    "criteria": {
-      "has_gray_wool": "2025-06-14 18:05:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-06-14 18:22:39 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
-    "criteria": {
-      "anger_wizard": "2025-06-14 18:40:18 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/gray_flag": {
-    "criteria": {
-      "has_gray_flag": "2025-06-14 18:05:59 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/hunter/pure_blood0": {
-    "criteria": {
-      "has_pure_blood": "2025-06-14 18:07:51 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/light_gray_flag": {
-    "criteria": {
-      "has_light_gray_flag": "2025-06-14 18:06:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/brewing/molten_heart_potion": {
-    "criteria": {
-      "has_items": "2025-06-14 18:40:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-06-14 18:12:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-06-14 18:40:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-14 18:06:03 +0000"
     },
     "done": true
   },
@@ -5148,6 +4895,168 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-06-14 18:07:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-06-14 18:07:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/weird_jelly_block": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/pure_sorbet": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-06-14 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-06-14 18:07:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-06-14 18:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 18:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 18:08:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-14 18:08:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-06-14 18:12:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-06-14 18:12:52 +0000"
@@ -5160,9 +5069,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
-      "has_iron_block": "2025-06-14 18:08:07 +0000"
+      "killed_fire_dragon": "2025-06-14 18:22:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-06-14 18:22:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-06-14 18:22:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-06-14 18:22:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 18:23:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 18:23:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-14 18:23:42 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:kill_pixie": {
+    "criteria": {
+      "killed_pixie": "2025-06-14 18:30:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-06-14 18:30:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-14 18:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-14 18:40:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2025-06-14 18:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-14 18:40:20 +0000"
     },
     "done": true
   },
@@ -5172,9 +5153,543 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_dark_stone_bricks": "2025-06-14 18:07:46 +0000"
+      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/flame_arrow_bag": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-14 18:40:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-06-14 18:40:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-06-14 18:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-14 18:55:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-06-14 18:55:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-14 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-06-14 19:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-14 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-14 19:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-14 19:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-14 19:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 19:02:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-06-14 19:03:01 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dark_oak_wine_shelf": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-14 19:03:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-06-14 19:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-14 19:03:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-06-14 19:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/magic_arrow_bag": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/ender_protector": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/precious_bracelet": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_challenge": {
+    "criteria": {
+      "sculptor_challenge": "2025-06-14 19:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-14 19:20:25 +0000"
     },
     "done": true
   },
