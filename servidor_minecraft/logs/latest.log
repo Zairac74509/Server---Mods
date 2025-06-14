@@ -2349,3 +2349,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 17:36:19.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/50365, l='ServerLevel[world]', x=204.14, y=63.94, z=-734.50] died, message: 'Weaponsmith was slain by Vampire Hunter'
 [14Jun2025 17:36:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was turned to ice by Ice Dragon
 [14Jun2025 17:36:49.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/50904, l='ServerLevel[world]', x=189.11, y=74.00, z=-757.35] died, message: 'entity.minecraft.villager.more_villargers.hunter was slain by Werewolf'
+[14Jun2025 17:38:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 was slain by Ice Dragon, they gave up
+[14Jun2025 17:41:20.855] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[14Jun2025 17:41:20.856] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[14Jun2025 17:41:20.857] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[14Jun2025 17:41:20.857] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[14Jun2025 17:43:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was eviscerated by Zairac74509's vexes
+[14Jun2025 17:43:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 stood in camilxdk1's dragon breath
+[14Jun2025 17:46:40.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[14Jun2025 17:46:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 17:46:40.857] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 17:46:48.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:51973] logged in with entity id 53640 at (-933.9406249976086, 102.0, -1084.6717759123123)
+[14Jun2025 17:46:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 17:46:48.315] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 17:46:48.315] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 17:46:48.316] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 17:46:48.738] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 17:46:48.739] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[14Jun2025 17:47:22.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[14Jun2025 17:47:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 17:47:22.408] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 17:49:03.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Into Fire]
+[14Jun2025 17:49:39.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:56031] logged in with entity id 54317 at (-928.7179705904723, 104.0, -1078.908887615358)
+[14Jun2025 17:49:39.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 17:49:39.183] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 17:49:39.184] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 17:49:39.184] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 17:49:41.351] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 17:49:41.351] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[14Jun2025 17:50:42.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[14Jun2025 17:50:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 17:50:42.256] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 17:50:48.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:51967] logged in with entity id 54597 at (-928.5742530013625, 103.9375, -1081.2288734883007)
+[14Jun2025 17:50:48.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 17:50:49.039] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 17:50:49.040] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 17:50:49.040] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 17:50:49.634] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 17:50:49.634] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[14Jun2025 17:53:10.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55265, l='ServerLevel[world]', x=260.93, y=64.50, z=-738.77] died, message: 'Villager was pricked to death'
+[14Jun2025 17:54:05.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/55150, l='ServerLevel[world]', x=200.05, y=93.50, z=-797.85] died, message: 'Villager was pricked to death'
+[14Jun2025 17:57:25.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
