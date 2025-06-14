@@ -4304,3 +4304,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Jun2025 03:21:26.141] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@41f1f236[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:50489): Took too long to log in
 [14Jun2025 03:21:26.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41f1f236[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:50489) lost connection: Took too long to log in
 [14Jun2025 03:21:26.185] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jun2025 03:21:59.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:53771] logged in with entity id 22832 at (84.63143991362139, 18.0, -804.9088554233099)
+[14Jun2025 03:21:59.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[14Jun2025 03:21:59.217] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[14Jun2025 03:21:59.218] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 03:21:59.218] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[14Jun2025 03:21:59.916] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[14Jun2025 03:21:59.916] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[14Jun2025 03:22:29.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 03:22:29.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 03:22:29.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 03:23:16.088] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5441c824[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:33921) lost connection: Disconnected
+[14Jun2025 03:23:29.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42813298[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:59931) lost connection: Disconnected
+[14Jun2025 03:23:41.651] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ce9026e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:41423) lost connection: Disconnected
+[14Jun2025 03:23:51.348] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@564d2612[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:52693) lost connection: Disconnected
+[14Jun2025 03:24:19.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:36377] logged in with entity id 23105 at (84.63143991362139, 18.0, -804.9088554233099)
+[14Jun2025 03:24:19.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[14Jun2025 03:24:19.421] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[14Jun2025 03:24:19.422] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 03:24:19.422] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[14Jun2025 03:24:19.999] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[14Jun2025 03:24:20.000] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[14Jun2025 03:24:20.112] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['camilxdk1'/23105, l='ServerLevel[world]', x=84.63, y=18.00, z=-804.91, removed=KILLED]
+[14Jun2025 03:25:09.914] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player camilxdk1 picking up: PermanentItemEntity['Extradimensional Vessel'/22220, l='ServerLevel[world]', x=84.63, y=19.50, z=-804.91]
+[14Jun2025 03:25:09.914] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/22220, l='ServerLevel[world]', x=84.63, y=19.50, z=-804.91]
+[14Jun2025 03:25:57.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/22273, l='ServerLevel[world]', x=202.98, y=94.50, z=-807.16] died, message: 'Weaponsmith was pricked to death'
+[14Jun2025 03:28:34.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/22402, l='ServerLevel[world]', x=203.87, y=94.50, z=-808.97] died, message: 'Weaponsmith was pricked to death'
+[14Jun2025 03:29:34.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Quaint Scribe]
+[14Jun2025 03:31:40.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Cover Me with Diamonds]
