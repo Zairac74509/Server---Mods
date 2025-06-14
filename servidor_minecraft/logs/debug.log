@@ -15777,3 +15777,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
 [14Jun2025 20:31:36.143] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of camilxdk1
 [14Jun2025 20:31:36.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 20:33:52.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:33:52.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 20:38:52.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:38:52.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
