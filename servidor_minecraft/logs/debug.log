@@ -15743,3 +15743,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 20:08:52.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 20:08:52.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 20:08:58.955] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Jun2025 20:12:08.976] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 20:12:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.727422400092038,3.5026862501508162,3.387170861064078
+[14Jun2025 20:12:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.536064095388696,3.7976514026301516,3.6696560482180303
+[14Jun2025 20:12:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -11.344347004825863,4.093108510438157,3.9521344401828173
+[14Jun2025 20:12:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -12.15226481151268,4.389051353941056,4.234602314866834
+[14Jun2025 20:13:08.530] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 5.769s
+[14Jun2025 20:13:46.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/158447, l='ServerLevel[world]', x=-967.51, y=92.84, z=-1067.71] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was slain by Zairac74509'
+[14Jun2025 20:13:52.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:13:52.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 20:15:57.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/160612, l='ServerLevel[world]', x=2066.50, y=42.00, z=-2915.50]
+[14Jun2025 20:16:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sunken City]
+[14Jun2025 20:18:52.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:18:52.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 20:20:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> oe
+[14Jun2025 20:20:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> no lo escucho
+[14Jun2025 20:23:52.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:23:52.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 20:24:59.310] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [7920a031-1af1-4bb5-ba72-4a3d4d6253b7]
+[14Jun2025 20:26:12.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/165936, l='ServerLevel[world]', x=1779.50, y=51.00, z=-3013.50]
+[14Jun2025 20:26:13.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/165417, l='ServerLevel[world]', x=1891.51, y=86.00, z=-3022.99]
+[14Jun2025 20:27:27.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [795957af-4d27-3957-9087-4f2291678558]
+[14Jun2025 20:27:49.380] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[14Jun2025 20:28:14.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[14Jun2025 20:28:14.206] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [795957af-4d27-3957-9087-4f2291678558]
+[14Jun2025 20:28:52.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 20:28:52.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 20:31:26.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[14Jun2025 20:31:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 20:31:26.641] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zairac74509
+[14Jun2025 20:31:26.641] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 20:31:36.143] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of camilxdk1
+[14Jun2025 20:31:36.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1

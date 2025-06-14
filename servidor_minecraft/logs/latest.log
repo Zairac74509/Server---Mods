@@ -2787,3 +2787,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 19:47:57.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/146288, l='ServerLevel[world]', x=181.86, y=64.00, z=-723.14] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was shot by Vampire Hunter'
 [14Jun2025 19:59:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [6175839155250380273]
 [14Jun2025 20:04:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Who is Cutting Onions?]
+[14Jun2025 20:12:08.976] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 20:12:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.727422400092038,3.5026862501508162,3.387170861064078
+[14Jun2025 20:12:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.536064095388696,3.7976514026301516,3.6696560482180303
+[14Jun2025 20:12:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -11.344347004825863,4.093108510438157,3.9521344401828173
+[14Jun2025 20:12:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -12.15226481151268,4.389051353941056,4.234602314866834
+[14Jun2025 20:13:46.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/158447, l='ServerLevel[world]', x=-967.51, y=92.84, z=-1067.71] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was slain by Zairac74509'
+[14Jun2025 20:15:57.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/160612, l='ServerLevel[world]', x=2066.50, y=42.00, z=-2915.50]
+[14Jun2025 20:16:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Sunken City]
+[14Jun2025 20:20:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> oe
+[14Jun2025 20:20:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> no lo escucho
+[14Jun2025 20:26:12.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/165936, l='ServerLevel[world]', x=1779.50, y=51.00, z=-3013.50]
+[14Jun2025 20:26:13.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/165417, l='ServerLevel[world]', x=1891.51, y=86.00, z=-3022.99]
+[14Jun2025 20:31:26.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[14Jun2025 20:31:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 20:31:26.641] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 20:31:36.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1

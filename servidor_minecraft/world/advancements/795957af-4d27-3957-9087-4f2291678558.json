@@ -105,7 +105,10 @@
       "minecraft:sunflower_plains": "2025-06-14 19:04:58 +0000",
       "minecraft:windswept_hills": "2025-06-14 18:00:04 +0000",
       "minecraft:beach": "2025-06-14 19:48:01 +0000",
+      "minecraft:stony_peaks": "2025-06-14 20:14:22 +0000",
+      "minecraft:sparse_jungle": "2025-06-14 20:15:21 +0000",
       "minecraft:river": "2025-06-14 01:57:52 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-14 20:15:49 +0000",
       "minecraft:snowy_plains": "2025-06-14 02:00:04 +0000",
       "minecraft:stony_shore": "2025-06-14 01:57:49 +0000",
       "minecraft:dripstone_caves": "2025-06-14 02:57:59 +0000",
@@ -116,7 +119,10 @@
       "minecraft:deep_cold_ocean": "2025-06-14 18:37:04 +0000",
       "minecraft:frozen_ocean": "2025-06-14 18:29:10 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-14 18:36:22 +0000",
+      "minecraft:jungle": "2025-06-14 20:14:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-14 03:40:20 +0000",
+      "minecraft:warm_ocean": "2025-06-14 20:30:11 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-14 20:15:53 +0000",
       "minecraft:flower_forest": "2025-06-14 19:22:08 +0000",
       "minecraft:frozen_peaks": "2025-06-14 16:34:21 +0000",
       "minecraft:meadow": "2025-06-14 17:13:16 +0000",
@@ -4422,6 +4428,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 20:14:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 20:14:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-06-14 19:12:52 +0000"
@@ -4434,15 +4452,39 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-06-14 20:16:12 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_01": "2025-06-14 19:20:44 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 20:14:21 +0000"
+    },
+    "done": true
+  },
   "simpleplanes:recipes/plane": {
     "criteria": {
       "in_fire": "2025-06-14 19:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-14 20:14:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 20:14:21 +0000"
     },
     "done": true
   },
