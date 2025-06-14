@@ -5822,12 +5822,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-14 23:23:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-06-14 23:22:13 +0000"
@@ -5837,6 +5831,18 @@
   "ad_astra:recipes/misc/black_flag": {
     "criteria": {
       "has_black_flag": "2025-06-14 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-14 23:23:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-06-14 23:39:45 +0000"
     },
     "done": true
   },
