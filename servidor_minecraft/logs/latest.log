@@ -4241,3 +4241,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Jun2025 02:31:52.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Suit Up]
+[14Jun2025 02:35:10.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 02:35:10.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 02:35:10.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 02:35:10.734] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jun2025 02:41:20.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:46815] logged in with entity id 15624 at (163.3706216496819, 85.0, -775.5627886807662)
+[14Jun2025 02:41:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[14Jun2025 02:41:20.393] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[14Jun2025 02:41:20.393] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 02:41:20.394] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[14Jun2025 02:41:22.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[14Jun2025 02:41:22.651] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
