@@ -2786,3 +2786,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 19:47:20.284] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
 [14Jun2025 19:47:57.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/146288, l='ServerLevel[world]', x=181.86, y=64.00, z=-723.14] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was shot by Vampire Hunter'
 [14Jun2025 19:59:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [6175839155250380273]
+[14Jun2025 20:04:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Who is Cutting Onions?]

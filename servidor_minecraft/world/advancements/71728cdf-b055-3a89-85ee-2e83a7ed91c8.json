@@ -5580,6 +5580,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-14 20:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-14 19:19:28 +0000"
@@ -5694,6 +5700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-14 20:04:56 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sculptor_challenge": {
     "criteria": {
       "sculptor_challenge": "2025-06-14 19:08:05 +0000"
@@ -5769,6 +5781,12 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
     "criteria": {
       "has_barrel": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "celestial_core:recipes/misc/earth_core": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-14 20:04:56 +0000"
     },
     "done": true
   },
