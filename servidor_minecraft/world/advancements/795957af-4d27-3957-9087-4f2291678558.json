@@ -111,6 +111,7 @@
       "minecraft:forest": "2025-06-14 01:56:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-14 03:40:20 +0000",
       "minecraft:frozen_peaks": "2025-06-14 16:34:21 +0000",
+      "minecraft:meadow": "2025-06-14 17:13:16 +0000",
       "minecraft:plains": "2025-06-14 01:57:31 +0000"
     },
     "done": false
@@ -3762,6 +3763,12 @@
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-06-14 16:47:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-06-14 17:16:27 +0000"
     },
     "done": true
   },

@@ -2258,3 +2258,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 17:02:59.345] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=26, y=74, z=-482}
 [14Jun2025 17:04:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Zairac74509
 [14Jun2025 17:05:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Zairac74509
+[14Jun2025 17:13:01.560] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[14Jun2025 17:13:01.817] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[14Jun2025 17:13:04.016] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[14Jun2025 17:13:04.016] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[14Jun2025 17:13:04.016] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[14Jun2025 17:13:04.016] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[14Jun2025 17:13:41.778] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 17:14:17.170] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/35382, l='ServerLevel[world]', x=-960.04, y=95.00, z=-1070.49] died, message: 'Villager was slain by Iron Golem'
+[14Jun2025 17:14:24.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/35380, l='ServerLevel[world]', x=-953.30, y=94.00, z=-1084.53] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was slain by Iron Golem'
+[14Jun2025 17:14:42.567] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 17:14:42.570] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 17:14:45.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -0.05036282379546719,-16.446297213733885,-0.06309379941092175
+[14Jun2025 17:16:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra has made the advancement [Convergent Evolution...]
+[14Jun2025 17:16:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Convergent Evolution...]
+[14Jun2025 17:16:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Quaint Scribe]
+[14Jun2025 17:19:26.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/37784, l='ServerLevel[world]', x=162.86, y=103.50, z=-800.14] died, message: 'Villager was pricked to death'
+[14Jun2025 17:20:00.855] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 17:20:34.857] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 17:21:08.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/38043, l='ServerLevel[world]', x=204.83, y=94.50, z=-808.80] died, message: 'Weaponsmith was pricked to death'
+[14Jun2025 17:21:12.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gukusupra lost connection: Disconnected
+[14Jun2025 17:21:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra left the game
+[14Jun2025 17:21:12.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gukusupra
+[14Jun2025 17:21:53.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/37950, l='ServerLevel[world]', x=193.72, y=101.00, z=-801.80] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
+[14Jun2025 17:22:01.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vampire Expert'/38150, l='ServerLevel[world]', x=187.15, y=101.00, z=-790.54] died, message: 'Vampire Expert was slain by Ice Dragon'
+[14Jun2025 17:22:03.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[14Jun2025 17:22:06.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Weaponsmith'/37874, l='ServerLevel[world]', x=191.30, y=94.41, z=-802.62] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
+[14Jun2025 17:22:06.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/38044, l='ServerLevel[world]', x=196.38, y=94.00, z=-799.57] died, message: 'entity.minecraft.villager.more_villargers.hunter was frozen by Ice Dragon'
+[14Jun2025 17:22:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:22:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:22:12.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[14Jun2025 17:22:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[14Jun2025 17:22:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[14Jun2025 17:22:30.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/38057, l='ServerLevel[world]', x=207.54, y=69.00, z=-752.56] died, message: 'Weaponsmith was frozen by Ice Dragon'
+[14Jun2025 17:22:34.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/37956, l='ServerLevel[world]', x=182.74, y=92.00, z=-771.16] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:22:34.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/37957, l='ServerLevel[world]', x=178.50, y=91.00, z=-769.10] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:22:35.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37954, l='ServerLevel[world]', x=182.51, y=92.00, z=-772.31] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:22:35.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/37955, l='ServerLevel[world]', x=178.96, y=92.00, z=-772.49] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:23:01.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40865, l='ServerLevel[world]', x=145.17, y=70.00, z=-750.45] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 17:23:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was frozen by a dragon
+[14Jun2025 17:25:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[14Jun2025 17:25:34.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43121, l='ServerLevel[world]', x=149.57, y=72.42, z=-753.69] died, message: 'Villager was slain by Ice Dragon'
+[14Jun2025 17:26:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
