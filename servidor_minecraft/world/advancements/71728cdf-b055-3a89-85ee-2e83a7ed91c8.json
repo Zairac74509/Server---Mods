@@ -788,6 +788,7 @@
       "mutton": "2025-06-14 02:12:03 +0000",
       "bread": "2025-06-14 02:37:15 +0000",
       "rotten_flesh": "2025-06-14 03:11:16 +0000",
+      "golden_carrot": "2025-06-14 19:55:09 +0000",
       "cooked_chicken": "2025-06-14 02:47:42 +0000",
       "cod": "2025-06-14 17:07:50 +0000",
       "cooked_salmon": "2025-06-14 17:07:56 +0000"
@@ -5573,6 +5574,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-14 19:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-14 19:19:28 +0000"
@@ -5600,6 +5607,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-14 19:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 19:51:01 +0000"
     },
     "done": true
   },
@@ -5654,6 +5667,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-14 19:51:01 +0000"
     },
     "done": true
   },
