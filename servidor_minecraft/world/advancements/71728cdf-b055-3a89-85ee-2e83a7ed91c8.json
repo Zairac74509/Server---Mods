@@ -756,7 +756,8 @@
       "porkchop": "2025-06-14 02:03:02 +0000",
       "apple": "2025-06-14 02:01:39 +0000",
       "mutton": "2025-06-14 02:12:03 +0000",
-      "bread": "2025-06-14 02:37:15 +0000"
+      "bread": "2025-06-14 02:37:15 +0000",
+      "cooked_chicken": "2025-06-14 02:47:42 +0000"
     },
     "done": false
   },
@@ -1218,7 +1219,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-06-14 02:11:59 +0000"
+      "minecraft:skeleton": "2025-06-14 02:11:59 +0000",
+      "minecraft:zombie": "2025-06-14 02:44:48 +0000"
     },
     "done": false
   },
@@ -1324,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-14 02:48:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 02:31:50 +0000"
@@ -1369,6 +1377,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-14 02:47:10 +0000"
     },
     "done": true
   },
@@ -1537,6 +1551,18 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-06-14 02:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-14 02:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-14 02:45:22 +0000"
     },
     "done": true
   },
@@ -1733,6 +1759,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 02:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 02:30:45 +0000"
@@ -1802,6 +1834,12 @@
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-06-14 02:30:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-14 02:45:20 +0000"
     },
     "done": true
   },
@@ -1877,6 +1915,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-06-14 02:45:20 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_iron": "2025-06-14 02:30:45 +0000"
@@ -1898,6 +1942,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-14 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-14 02:45:20 +0000"
     },
     "done": true
   },
@@ -1997,6 +2047,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-14 02:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 02:30:45 +0000"
@@ -2006,6 +2062,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-06-14 02:35:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-14 02:47:10 +0000"
     },
     "done": true
   },
@@ -2036,6 +2098,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 02:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-14 02:45:22 +0000"
     },
     "done": true
   },

@@ -4253,3 +4253,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Jun2025 02:41:20.394] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
 [14Jun2025 02:41:22.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
 [14Jun2025 02:41:22.651] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[14Jun2025 02:43:28.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/12403, l='ServerLevel[world]', x=184.03, y=69.00, z=-626.30] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was sucked dry'
+[14Jun2025 02:44:00.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Mobs]
+[14Jun2025 02:45:23.444] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[14Jun2025 02:45:23.445] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[14Jun2025 02:47:01.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/12263, l='ServerLevel[world]', x=175.80, y=102.00, z=-786.18] died, message: 'Villager was slain by Werewolf'
+[14Jun2025 02:48:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Not Today, Thank You]
+[14Jun2025 02:51:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Alex's Caves]
+[14Jun2025 02:51:34.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Caves]
