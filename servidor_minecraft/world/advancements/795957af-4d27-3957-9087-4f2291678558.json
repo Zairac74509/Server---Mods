@@ -101,6 +101,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-14 03:41:08 +0000",
       "minecraft:taiga": "2025-06-14 02:04:38 +0000",
       "minecraft:frozen_river": "2025-06-14 16:33:22 +0000",
+      "minecraft:windswept_hills": "2025-06-14 18:00:04 +0000",
       "minecraft:river": "2025-06-14 01:57:52 +0000",
       "minecraft:snowy_plains": "2025-06-14 02:00:04 +0000",
       "minecraft:stony_shore": "2025-06-14 01:57:49 +0000",
@@ -109,9 +110,13 @@
       "minecraft:grove": "2025-06-14 16:34:29 +0000",
       "minecraft:cold_ocean": "2025-06-14 02:15:01 +0000",
       "minecraft:forest": "2025-06-14 01:56:07 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-14 18:37:04 +0000",
+      "minecraft:frozen_ocean": "2025-06-14 18:29:10 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-14 18:36:22 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-14 03:40:20 +0000",
       "minecraft:frozen_peaks": "2025-06-14 16:34:21 +0000",
       "minecraft:meadow": "2025-06-14 17:13:16 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-14 18:00:03 +0000",
       "minecraft:plains": "2025-06-14 01:57:31 +0000"
     },
     "done": false
@@ -1703,6 +1708,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 16:31:52 +0000",
       "minecraft:skeleton": "2025-06-14 03:14:14 +0000",
+      "minecraft:vindicator": "2025-06-14 18:14:01 +0000",
       "minecraft:spider": "2025-06-14 02:43:29 +0000",
       "minecraft:zombie": "2025-06-14 02:30:08 +0000"
     },
@@ -3378,9 +3384,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-06-14 03:29:52 +0000"
+      "has_parent_recipe": "2025-06-14 03:29:52 +0000",
+      "has_items": "2025-06-14 18:14:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
@@ -3748,17 +3755,29 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-06-14 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/spruce_wine_shelf": {
+    "criteria": {
+      "has_spruce_slab": "2025-06-14 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-14 16:06:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2025-06-14 16:19:27 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-06-14 17:49:48 +0000"
-    },
-    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
@@ -3766,9 +3785,167 @@
     },
     "done": false
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000",
+      "flower": "2025-06-14 16:59:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "resurrected": "2025-06-14 16:23:04 +0000",
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-06-14 16:27:01 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-06-14 16:29:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-06-14 16:29:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-06-14 16:29:39 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-06-14 16:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 16:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-14 16:58:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-06-14 17:16:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-14 17:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-14 17:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-14 17:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-14 17:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-14 17:34:16 +0000"
     },
     "done": true
   },
@@ -3784,70 +3961,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed": "2025-06-14 17:16:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/first_blood": {
-    "criteria": {
-      "main": "2025-06-14 16:19:27 +0000",
-      "flower": "2025-06-14 16:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-06-14 17:49:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-06-14 16:29:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-06-14 16:06:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 16:29:29 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/chaotic_pendant": {
-    "criteria": {
-      "has_enchanted_book": "2025-06-14 17:51:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
     },
     "done": true
   },
@@ -3857,51 +3973,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-14 17:34:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-14 17:34:16 +0000"
-    },
-    "done": true
-  },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-06-14 16:27:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "ghoul": "2025-06-14 17:30:10 +0000"
     },
     "done": true
   },
@@ -3911,40 +3991,15 @@
     },
     "done": true
   },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "resurrected": "2025-06-14 16:23:04 +0000",
-      "main": "2025-06-14 16:19:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
     },
     "done": true
   },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-06-14 16:29:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-14 16:29:29 +0000"
     },
     "done": true
   },
@@ -3966,12 +4021,6 @@
     },
     "done": true
   },
-  "vampiresdelight:recipes/building_blocks/spruce_wine_shelf": {
-    "criteria": {
-      "has_spruce_slab": "2025-06-14 16:06:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
@@ -3984,69 +4033,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-06-14 16:06:50 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 17:39:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
-      "has_log": "2025-06-14 16:58:35 +0000"
+      "has_gravel": "2025-06-14 17:39:33 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
-      "has_heart": "2025-06-14 16:29:39 +0000"
+      "has_gravel": "2025-06-14 17:39:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_any_ingredient": "2025-06-14 16:29:29 +0000"
+      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_logs": "2025-06-14 16:58:35 +0000"
+      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
     },
     "done": true
   },
-  "vampirism:vampire/yuck": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
-    },
-    "done": false
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-06-14 17:30:50 +0000"
+      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_heart": "2025-06-14 16:29:39 +0000"
+      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
     },
     "done": true
   },
@@ -4056,15 +4081,15 @@
     },
     "done": true
   },
-  "vampirism:vampire/become_vampire": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
+      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_gravel": "2025-06-14 17:39:33 +0000"
+      "blaze_rod": "2025-06-14 17:49:03 +0000"
     },
     "done": true
   },
@@ -4080,39 +4105,303 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-14 17:39:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-14 17:48:35 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
-    "criteria": {
-      "has_heart": "2025-06-14 16:29:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-06-14 17:49:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_raw_copper": "2025-06-14 17:34:16 +0000"
+      "has_emerald_block": "2025-06-14 17:49:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "celestial_artifacts:recipes/misc/chaotic_pendant": {
     "criteria": {
-      "fried_egg": "2025-06-14 16:29:29 +0000"
+      "has_enchanted_book": "2025-06-14 17:51:58 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-14 18:03:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-14 18:48:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-14 18:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 18:37:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-06-14 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-06-14 18:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-06-14 18:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-14 18:37:05 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dark_oak_wine_shelf": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-14 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-06-14 18:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-06-14 18:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 18:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2025-06-14 18:38:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2025-06-14 18:38:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-06-14 18:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:13:10 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2025-06-14 18:41:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-06-14 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-06-14 18:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-14 18:34:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-14 18:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-14 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-14 18:41:02 +0000"
     },
     "done": true
   },

@@ -2390,3 +2390,313 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 17:53:10.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55265, l='ServerLevel[world]', x=260.93, y=64.50, z=-738.77] died, message: 'Villager was pricked to death'
 [14Jun2025 17:54:05.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/55150, l='ServerLevel[world]', x=200.05, y=93.50, z=-797.85] died, message: 'Villager was pricked to death'
 [14Jun2025 17:57:25.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[14Jun2025 17:59:37.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.26086642779830527
+[14Jun2025 17:59:37.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9336420024859535
+[14Jun2025 17:59:37.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.6054257874617406
+[14Jun2025 17:59:37.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.27667888553685316
+[14Jun2025 17:59:38.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9486085231108063
+[14Jun2025 18:00:01.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.259891421085606
+[14Jun2025 18:00:01.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9194332629267251
+[14Jun2025 18:00:01.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5329650117990923
+[14Jun2025 18:00:04.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2543044112669577
+[14Jun2025 18:00:04.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6702117459545889
+[14Jun2025 18:00:04.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.566431625085329
+[14Jun2025 18:00:04.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1719216573141011
+[14Jun2025 18:00:04.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3865357348887528
+[14Jun2025 18:00:04.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9946367133836702
+[14Jun2025 18:02:57.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.198838160300056,0.0,34.47563941593239
+[14Jun2025 18:02:57.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.15924728912387,0.0,34.472561382977915
+[14Jun2025 18:02:57.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.1380630033143,0.0,34.472561382977915
+[14Jun2025 18:02:57.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.12672771434677,0.0,34.472561382977915
+[14Jun2025 18:02:57.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.120662427221532,0.0,34.472561382977915
+[14Jun2025 18:02:57.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.11741701300957,0.0,34.472561382977915
+[14Jun2025 18:02:57.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.11741701300957,0.0,34.472561382977915
+[14Jun2025 18:02:57.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.11741701300957,0.0,34.472561382977915
+[14Jun2025 18:02:57.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -20.11741701300957,0.0,34.472561382977915
+[14Jun2025 18:03:00.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -28.981456679829307,0.0,14.799692325986825
+[14Jun2025 18:03:01.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -29.647173806975843,0.0,15.006353046314757
+[14Jun2025 18:03:01.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -30.314751050991845,0.0,15.210081619860944
+[14Jun2025 18:03:01.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -30.978595438657976,0.0,15.426789877909528
+[14Jun2025 18:03:01.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -31.621408224728157,0.0,15.694105238605289
+[14Jun2025 18:03:10.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.565707080618267,-2.0,32.05668414151171
+[14Jun2025 18:03:10.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.712286528664208,-2.0,32.66792009811115
+[14Jun2025 18:03:10.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.780856780155545,-2.0,33.31332755834194
+[14Jun2025 18:03:10.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.807685865906024,-2.0,33.977019508859485
+[14Jun2025 18:03:10.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.81218008609767,-2.0,34.650495125576185
+[14Jun2025 18:03:10.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.802318597418434,-2.0,35.329205787010665
+[14Jun2025 18:03:10.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 24.787180422763868,-2.0,36.01071761649814
+[14Jun2025 18:03:17.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Amateur Archaeologist]
+[14Jun2025 18:03:30.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -16.661043366382046,-1.0,29.304687883867018
+[14Jun2025 18:03:30.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -16.081482819753774,-1.0,29.32942926182841
+[14Jun2025 18:03:30.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -15.45305186169412,-1.0,29.35338392501751
+[14Jun2025 18:03:30.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -14.798358023864694,-1.0,29.37273579141163
+[14Jun2025 18:03:30.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! -14.448044404429083,-1.0,29.383090589284507
+[14Jun2025 18:03:40.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 42.410543523465776,3.0,-15.01905703822058
+[14Jun2025 18:03:40.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 43.057053244865756,3.0,-15.244480729941074
+[14Jun2025 18:03:41.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 43.69936993931378,3.0,-15.481718701219734
+[14Jun2025 18:03:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 44.335954723101395,3.0,-15.733781521191304
+[14Jun2025 18:03:41.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 44.967481463535705,3.0,-15.998338534950108
+[14Jun2025 18:03:41.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 45.59630174581798,3.0,-16.269580942697075
+[14Jun2025 18:03:41.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 46.22367385630423,3.0,-16.54440057147474
+[14Jun2025 18:03:41.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 46.85027107893575,3.0,-16.82113429990386
+[14Jun2025 18:04:00.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 40.546110559164845,-1.0,5.0334978335598635
+[14Jun2025 18:04:00.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 41.20219178520142,-1.0,4.855379195570208
+[14Jun2025 18:04:00.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 41.866686189801385,0.0,4.703515305661085
+[14Jun2025 18:04:00.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 42.53831485973342,0.0,4.582995426420439
+[14Jun2025 18:04:00.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 43.2141539601912,0.0,4.482552204412968
+[14Jun2025 18:04:07.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 34.76502927539673,-2.0,5.264437978177739
+[14Jun2025 18:04:07.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 35.29975267010559,-2.0,5.411734539347663
+[14Jun2025 18:04:07.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 35.895339848107824,-2.0,5.415235983919388
+[14Jun2025 18:04:07.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 36.52349402305731,-2.0,5.339921975385664
+[14Jun2025 18:04:07.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 37.169074148757545,-2.0,5.224308942484981
+[14Jun2025 18:04:07.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved too quickly! 37.82397855326849,-1.0,5.087132705121348
+[14Jun2025 18:06:45.572] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 18:06:45.572] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 18:07:20.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3031633835392995
+[14Jun2025 18:07:20.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.76854344918479
+[14Jun2025 18:07:20.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.32072242717345034
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:46.811] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:50.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 18:07:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 18:07:50.001] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 18:07:58.396] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.396] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:07:58.397] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:09:01.594] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1b54eae1[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:43785): Took too long to log in
+[14Jun2025 18:09:01.594] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b54eae1[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:43785) lost connection: Took too long to log in
+[14Jun2025 18:09:01.643] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jun2025 18:09:43.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:37709] logged in with entity id 62537 at (1707.5938457707068, 64.0, -915.6999999880791)
+[14Jun2025 18:09:43.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[14Jun2025 18:09:43.076] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[14Jun2025 18:09:43.077] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 18:09:43.077] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[14Jun2025 18:09:43.636] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[14Jun2025 18:09:43.637] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[14Jun2025 18:10:50.209] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[14Jun2025 18:11:15.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 18:11:24.508] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 18:11:40.115] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 18:11:52.423] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 18:12:10.659] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[14Jun2025 18:12:21.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[14Jun2025 18:12:35.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[14Jun2025 18:13:30.426] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[14Jun2025 18:13:40.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zairac74509) moved too quickly! -9.933023514700835,0.0,3.8082338571601326
+[14Jun2025 18:13:46.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64902, l='ServerLevel[world]', x=1727.37, y=64.00, z=-274.28] died, message: 'Villager suffocated in a wall'
+[14Jun2025 18:13:53.458] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:13:53.459] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:13:53.459] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:13:53.459] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[14Jun2025 18:14:26.927] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[14Jun2025 18:14:26.928] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[14Jun2025 18:14:26.928] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[14Jun2025 18:14:26.928] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[14Jun2025 18:14:27.127] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[14Jun2025 18:14:27.127] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[14Jun2025 18:14:53.988] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 18:16:36.517] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[14Jun2025 18:16:45.762] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[14Jun2025 18:17:50.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was eviscerated by Archevoker's vexes
+[14Jun2025 18:18:09.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.hunter'/67235, l='ServerLevel[world]', x=238.88, y=56.00, z=-748.89] died, message: 'entity.minecraft.villager.more_villargers.hunter was slain by Werewolf'
+[14Jun2025 18:18:52.447] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[14Jun2025 18:22:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was eviscerated by Archevoker's vexes
+[14Jun2025 18:22:35.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Herc was on a Roll!]
+[14Jun2025 18:23:47.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 experienced kinetic energy whilst trying to escape Archevoker, they gave up
+[14Jun2025 18:25:24.444] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 18:25:26.309] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[14Jun2025 18:25:26.309] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[14Jun2025 18:25:26.309] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[14Jun2025 18:25:26.309] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[14Jun2025 18:30:23.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [You are a monster!]
+[14Jun2025 18:31:27.843] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[14Jun2025 18:31:27.844] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[14Jun2025 18:31:27.844] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[14Jun2025 18:31:27.844] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[14Jun2025 18:31:27.956] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 18:31:33.816] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[14Jun2025 18:31:33.816] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[14Jun2025 18:31:40.651] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 18:31:40.651] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 18:32:29.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/80751, l='ServerLevel[world]', x=1724.66, y=90.00, z=273.78]
+[14Jun2025 18:32:29.816] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85120, l='ServerLevel[world]', x=1006.60, y=79.79, z=-2032.56]
+[14Jun2025 18:32:29.816] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85122, l='ServerLevel[world]', x=1005.00, y=79.79, z=-2032.74]
+[14Jun2025 18:32:29.816] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85124, l='ServerLevel[world]', x=1005.91, y=80.54, z=-2032.05]
+[14Jun2025 18:32:29.816] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85125, l='ServerLevel[world]', x=1006.06, y=80.28, z=-2032.95]
+[14Jun2025 18:32:29.817] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85126, l='ServerLevel[world]', x=1006.27, y=80.02, z=-2034.12]
+[14Jun2025 18:32:46.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[14Jun2025 18:33:07.274] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:monastery took 6651 ms
+[14Jun2025 18:33:07.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6642ms or 132 ticks behind
+[14Jun2025 18:33:07.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 2.254896901713437,-10.018126097808192,-0.4386724558577839
+[14Jun2025 18:33:07.332] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:monastery took 4 ms
+[14Jun2025 18:33:07.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -7.430215052610606,1.1661092609382138,6.925900952779102
+[14Jun2025 18:33:16.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[14Jun2025 18:33:27.375] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=711, y=0, z=-1555}
+[14Jun2025 18:35:29.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:33.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:34.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:34.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:34.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:34.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:34.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:34.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:36.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.105] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.204] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.303] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.505] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.705] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:37.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.004] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.303] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.532] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:38.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.104] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.305] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:39.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.104] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.305] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.605] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:40.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.492] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:41.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.004] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.104] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:42.905] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:43.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.395] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.705] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:44.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.601] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.801] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:45.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.864] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:46.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.566] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:35:47.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jun2025 18:36:22.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ice Maze]
+[14Jun2025 18:36:43.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Almost Like a Fan]
+[14Jun2025 18:37:18.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[14Jun2025 18:37:44.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[14Jun2025 18:38:05.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Light In The Darkness]
+[14Jun2025 18:38:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Perfect Instance]
+[14Jun2025 18:38:15.120] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1444, y=22, z=-2279}
+[14Jun2025 18:38:16.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90045, l='ServerLevel[world]', x=1146.58, y=96.00, z=-2413.25] died, message: 'Villager suffocated in a wall'
+[14Jun2025 18:40:18.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Fool's Folly]
+[14Jun2025 18:40:18.953] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Jun2025 18:40:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Into Fire]
+[14Jun2025 18:41:03.963] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[14Jun2025 18:41:03.963] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[14Jun2025 18:41:37.111] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[14Jun2025 18:41:37.111] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[14Jun2025 18:41:37.111] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[14Jun2025 18:41:37.112] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[14Jun2025 18:48:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Free Willy]
