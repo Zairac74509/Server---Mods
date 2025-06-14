@@ -4286,3 +4286,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Jun2025 03:09:16.499] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for camilxdk1 at X: 104.30000001192093, Y: 5.0, Z: -815.9952835387975
 [14Jun2025 03:09:19.990] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player camilxdk1 picking up: PermanentItemEntity['Extradimensional Vessel'/20435, l='ServerLevel[world]', x=104.30, y=6.50, z=-816.00]
 [14Jun2025 03:09:19.990] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/20435, l='ServerLevel[world]', x=104.30, y=6.50, z=-816.00]
+[14Jun2025 03:12:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by camilxdk1
+[14Jun2025 03:16:41.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11974, l='ServerLevel[world]', x=199.82, y=94.00, z=-805.48] died, message: 'Weaponsmith was frozen by Ice Dragon'
+[14Jun2025 03:16:44.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11736, l='ServerLevel[world]', x=163.18, y=103.00, z=-798.25] died, message: 'Villager was turned to ice by Ice Dragon'
+[14Jun2025 03:18:38.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Skeleton
+[14Jun2025 03:18:38.491] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for camilxdk1 at X: 84.32795888092356, Y: 18.0, Z: -807.0519215188012
+[14Jun2025 03:19:01.204] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player camilxdk1 picking up: PermanentItemEntity['Extradimensional Vessel'/21979, l='ServerLevel[world]', x=84.33, y=19.50, z=-807.05]
+[14Jun2025 03:19:01.204] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/21979, l='ServerLevel[world]', x=84.33, y=19.50, z=-807.05]
+[14Jun2025 03:19:39.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[14Jun2025 03:19:39.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[14Jun2025 03:19:39.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was slain by Zombie
+[14Jun2025 03:19:39.490] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for camilxdk1 at X: 84.63143991362139, Y: 18.0, Z: -804.9088554233099
+[14Jun2025 03:19:39.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 03:19:39.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Skeleton
+[14Jun2025 03:19:47.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22436, l='ServerLevel[world]', x=206.98, y=81.42, z=-824.55] died, message: 'Villager was frozen by Ice Dragon'
+[14Jun2025 03:19:56.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/22398, l='ServerLevel[world]', x=202.30, y=94.00, z=-806.53] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
+[14Jun2025 03:21:26.141] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@41f1f236[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:50489): Took too long to log in
+[14Jun2025 03:21:26.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41f1f236[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:50489) lost connection: Took too long to log in
+[14Jun2025 03:21:26.185] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
