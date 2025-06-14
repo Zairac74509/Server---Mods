@@ -2805,3 +2805,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
 [14Jun2025 20:31:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
 [14Jun2025 20:31:36.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[14Jun2025 20:43:20.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:43283] logged in with entity id 170058 at (3312.8340227074214, 194.5787826911268, -2975.6008374406288)
+[14Jun2025 20:43:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 20:43:20.628] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 20:43:20.628] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 20:43:20.629] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 20:43:22.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 20:43:22.897] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[14Jun2025 20:43:54.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[14Jun2025 20:44:05.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[14Jun2025 20:47:10.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[14Jun2025 20:47:10.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 20:47:10.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 20:49:29.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:38409] logged in with entity id 171010 at (3261.0990197113024, 152.1661092609382, -3062.0353616413963)
+[14Jun2025 20:49:30.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 20:49:30.027] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 20:49:30.028] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 20:49:30.029] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 20:49:32.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 20:49:32.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
