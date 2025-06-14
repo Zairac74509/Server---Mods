@@ -12034,3 +12034,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 16:53:27.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jun2025 16:53:27.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 16:56:04.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ice Bucket Challenge]
+[14Jun2025 16:58:27.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 16:58:27.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 16:59:26.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Bloody Stream]
+[14Jun2025 16:59:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by camilxdk1
+[14Jun2025 16:59:43.896] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[14Jun2025 17:00:32.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra has made the advancement [Sweet Dreams]
+[14Jun2025 17:00:44.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> ole yulber únase a la llamada de dc
+[14Jun2025 17:01:51.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [a119c384-e5a0-3790-ad58-955a69edf9fe]
+[14Jun2025 17:01:57.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by camilxdk1
+[14Jun2025 17:01:59.707] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage
+[14Jun2025 17:02:59.345] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=26, y=74, z=-482}
+[14Jun2025 17:03:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 17:03:27.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 17:04:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Zairac74509
+[14Jun2025 17:04:14.006] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage
+[14Jun2025 17:05:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Zairac74509
+[14Jun2025 17:05:34.769] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage

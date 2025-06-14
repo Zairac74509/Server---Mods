@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-14 17:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-14 16:16:38 +0000"
@@ -693,6 +699,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-14 16:16:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-14 16:58:25 +0000"
     },
     "done": true
   },
@@ -1164,6 +1176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 16:55:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-06-14 16:14:30 +0000"
@@ -1317,6 +1335,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-14 16:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-14 16:55:45 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/sugared_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-14 16:58:25 +0000"
     },
     "done": true
   },
@@ -1597,6 +1627,7 @@
       "cooked_porkchop": "2025-06-14 16:21:30 +0000",
       "chicken": "2025-06-14 16:30:06 +0000",
       "cooked_mutton": "2025-06-14 16:22:32 +0000",
+      "sweet_berries": "2025-06-14 16:58:40 +0000",
       "rotten_flesh": "2025-06-14 16:51:12 +0000"
     },
     "done": false

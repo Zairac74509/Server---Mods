@@ -3767,9 +3767,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
+      "main": "2025-06-14 16:19:27 +0000",
+      "flower": "2025-06-14 16:59:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
@@ -3844,6 +3845,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-14 16:58:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
     "criteria": {
       "has_heart": "2025-06-14 16:29:39 +0000"
@@ -3853,6 +3860,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-14 16:58:35 +0000"
     },
     "done": true
   },
