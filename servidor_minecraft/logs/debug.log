@@ -11996,3 +11996,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 16:25:35.920] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/19001, l='ServerLevel[world]', x=234.20, y=74.44, z=-38.17]
 [14Jun2025 16:25:35.921] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/19001, l='ServerLevel[world]', x=234.20, y=74.44, z=-38.17]
 [14Jun2025 16:25:37.459] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage
+[14Jun2025 16:28:27.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 16:28:27.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 16:29:04.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19876, l='ServerLevel[world]', x=304.50, y=51.00, z=39.50]
+[14Jun2025 16:30:03.014] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [088bf727-7fd3-4965-a892-118951e5ef15]
+[14Jun2025 16:30:31.453] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [a119c384-e5a0-3790-ad58-955a69edf9fe]
+[14Jun2025 16:30:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Zairac74509
+[14Jun2025 16:30:45.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for gukusupra at X: 238.03622527451364, Y: 71.0, Z: -86.1989704923909
+[14Jun2025 16:30:45.507] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/20450, l='ServerLevel[world]', x=238.04, y=72.50, z=-86.20]
+[14Jun2025 16:30:45.507] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/20450, l='ServerLevel[world]', x=238.04, y=72.50, z=-86.20]
+[14Jun2025 16:30:47.811] [Server thread/DEBUG] [twilightforest/]: Player gukusupra (a119c384-e5a0-3790-ad58-955a69edf9fe) respawned and received items held in storage
+[14Jun2025 16:31:01.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [2bd9478b-2418-44ad-b394-22ca69415633]
+[14Jun2025 16:31:36.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:tidal_grasp 1: [963b93d4-62d6-4030-b107-58169639dd30]
+[14Jun2025 16:31:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Voluntary Exile]
+[14Jun2025 16:33:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ol' Betsy]
+[14Jun2025 16:33:27.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 16:33:27.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

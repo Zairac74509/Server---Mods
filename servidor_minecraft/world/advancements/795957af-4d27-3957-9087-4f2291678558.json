@@ -100,6 +100,7 @@
       "minecraft:snowy_slopes": "2025-06-14 01:58:37 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-14 03:41:08 +0000",
       "minecraft:taiga": "2025-06-14 02:04:38 +0000",
+      "minecraft:frozen_river": "2025-06-14 16:33:22 +0000",
       "minecraft:river": "2025-06-14 01:57:52 +0000",
       "minecraft:snowy_plains": "2025-06-14 02:00:04 +0000",
       "minecraft:stony_shore": "2025-06-14 01:57:49 +0000",
@@ -1696,6 +1697,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-14 16:31:52 +0000",
       "minecraft:skeleton": "2025-06-14 03:14:14 +0000",
       "minecraft:spider": "2025-06-14 02:43:29 +0000",
       "minecraft:zombie": "2025-06-14 02:30:08 +0000"
@@ -3760,11 +3762,29 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-06-14 16:06:50 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-06-14 16:27:01 +0000"
+    },
+    "done": false
   },
   "vampirism:vampire/kill_mother": {
     "criteria": {
@@ -3785,6 +3805,18 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/building_blocks/spruce_wine_shelf": {
     "criteria": {
       "has_spruce_slab": "2025-06-14 16:06:50 +0000"
@@ -3803,6 +3835,18 @@
     },
     "done": false
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-06-14 16:29:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 16:29:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-06-14 16:19:27 +0000"
@@ -3815,9 +3859,27 @@
     },
     "done": false
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-06-14 16:29:39 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-06-14 16:19:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-06-14 16:29:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-14 16:29:29 +0000"
     },
     "done": true
   },

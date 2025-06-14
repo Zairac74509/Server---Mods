@@ -1232,6 +1232,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-14 16:31:40 +0000",
       "minecraft:skeleton": "2025-06-14 02:11:59 +0000",
       "minecraft:spider": "2025-06-14 15:45:02 +0000",
       "minecraft:enderman": "2025-06-14 16:13:52 +0000",
@@ -1374,9 +1375,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-06-14 02:30:45 +0000"
+      "has_parent_recipe": "2025-06-14 02:30:45 +0000",
+      "has_items": "2025-06-14 16:25:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
@@ -3720,9 +3722,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-14 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -3731,6 +3751,12 @@
       "killed": "2025-06-14 16:23:23 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
   },
   "create:copper": {
     "criteria": {
@@ -3750,6 +3776,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/diamond_ring": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-06-14 16:18:13 +0000"
@@ -3762,9 +3794,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-14 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-14 16:31:40 +0000"
     },
     "done": true
   },
@@ -3798,9 +3842,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-06-14 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-14 16:33:04 +0000"
     },
     "done": true
   },
@@ -3843,6 +3905,12 @@
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-14 16:05:59 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/precious_necklace": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -3894,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-06-14 16:18:13 +0000"
@@ -3903,6 +3977,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-14 15:47:46 +0000"
+    },
+    "done": true
+  },
+  "celestial_core:recipes/transformation/heart_of_the_sea": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -3924,6 +4004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-06-14 16:18:13 +0000"
@@ -3936,11 +4022,23 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-06-14 16:18:13 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-06-14 16:25:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
@@ -3951,6 +4049,24 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-14 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -4011,6 +4127,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-14 15:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_improved": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -4080,6 +4202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-14 15:47:46 +0000"
@@ -4095,6 +4223,12 @@
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-06-14 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/treasure_hunter_necklace": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -4122,6 +4256,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-14 15:45:03 +0000"
@@ -4143,6 +4283,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-06-14 16:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/wolfsbane_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },
@@ -4188,6 +4334,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/emerald_necklace": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-14 15:56:42 +0000"
@@ -4203,6 +4355,12 @@
   "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_heart": "2025-06-14 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-14 16:25:35 +0000"
     },
     "done": true
   },

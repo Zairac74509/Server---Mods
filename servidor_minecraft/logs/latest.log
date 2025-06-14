@@ -2236,3 +2236,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 16:25:35.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Diamonds!]
 [14Jun2025 16:25:35.920] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/19001, l='ServerLevel[world]', x=234.20, y=74.44, z=-38.17]
 [14Jun2025 16:25:35.921] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/19001, l='ServerLevel[world]', x=234.20, y=74.44, z=-38.17]
+[14Jun2025 16:29:04.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19876, l='ServerLevel[world]', x=304.50, y=51.00, z=39.50]
+[14Jun2025 16:30:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gukusupra was slain by Zairac74509
+[14Jun2025 16:30:45.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for gukusupra at X: 238.03622527451364, Y: 71.0, Z: -86.1989704923909
+[14Jun2025 16:30:45.507] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zairac74509 picking up: PermanentItemEntity['Extradimensional Vessel'/20450, l='ServerLevel[world]', x=238.04, y=72.50, z=-86.20]
+[14Jun2025 16:30:45.507] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/20450, l='ServerLevel[world]', x=238.04, y=72.50, z=-86.20]
+[14Jun2025 16:31:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Voluntary Exile]
+[14Jun2025 16:33:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ol' Betsy]
