@@ -878,3 +878,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 23:09:06.416] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md88506d$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [14Jun2025 23:10:22.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -201.61896663240714,74.5248956964073,-73.80094995717945
 [14Jun2025 23:12:18.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 11.182000263838745,5.8802959205901,-9.23582634791319
+[14Jun2025 23:15:29.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4148, l='ServerLevel[world]', x=-1041.23, y=109.00, z=-1101.59] died, message: 'Villager was shot by Pillager'
+[14Jun2025 23:18:53.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-824:84:240:3:false:0:Internal-overworld-waypoints
+[14Jun2025 23:22:21.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:boss:B:-802:19:120:13:false:0:Internal-overworld-waypoints
+[14Jun2025 23:33:08.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[14Jun2025 23:33:08.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[14Jun2025 23:33:08.529] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[14Jun2025 23:33:18.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:45653] logged in with entity id 13317 at (-800.9293429772406, 13.0, 148.30000001192093)
+[14Jun2025 23:33:18.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[14Jun2025 23:33:18.438] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[14Jun2025 23:33:18.438] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Jun2025 23:33:18.439] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[14Jun2025 23:33:18.758] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[14Jun2025 23:33:18.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509

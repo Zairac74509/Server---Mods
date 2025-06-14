@@ -106,6 +106,7 @@
       "minecraft:windswept_hills": "2025-06-14 18:00:04 +0000",
       "minecraft:beach": "2025-06-14 19:48:01 +0000",
       "minecraft:stony_peaks": "2025-06-14 20:14:22 +0000",
+      "minecraft:dark_forest": "2025-06-14 23:20:56 +0000",
       "minecraft:sparse_jungle": "2025-06-14 20:15:21 +0000",
       "minecraft:river": "2025-06-14 01:57:52 +0000",
       "minecraft:lukewarm_ocean": "2025-06-14 20:15:49 +0000",
@@ -125,6 +126,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-14 20:15:53 +0000",
       "minecraft:flower_forest": "2025-06-14 19:22:08 +0000",
       "minecraft:frozen_peaks": "2025-06-14 16:34:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-14 23:21:07 +0000",
       "minecraft:meadow": "2025-06-14 17:13:16 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-14 18:00:03 +0000",
       "minecraft:plains": "2025-06-14 01:57:31 +0000"
@@ -4485,6 +4487,18 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-06-14 20:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-14 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-14 23:25:04 +0000"
     },
     "done": true
   },
