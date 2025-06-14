@@ -15645,3 +15645,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 19:29:00.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
 [14Jun2025 19:29:00.924] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 36.031s
 [14Jun2025 19:29:10.637] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 53.614s
+[14Jun2025 19:29:47.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14Jun2025 19:30:05.729] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 10.295s
+[14Jun2025 19:30:08.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6119ms or 122 ticks behind
+[14Jun2025 19:30:28.380] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:30:28.383] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:30:28.508] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:30:28.511] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1123, y=97, z=128}
+[14Jun2025 19:30:28.511] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:30:31.065] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 48.545s
+[14Jun2025 19:30:39.024] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 7.05s
+[14Jun2025 19:30:47.414] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 33.586s
+[14Jun2025 19:30:53.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/131638, l='ServerLevel[world]', x=-893.97, y=97.00, z=277.78] died, message: 'Nitwit burned to death'
+[14Jun2025 19:30:53.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.hunter'/131752, l='ServerLevel[world]', x=-876.37, y=95.56, z=264.51] died, message: 'entity.minecraft.villager.more_villargers.hunter burned to death'
+[14Jun2025 19:30:53.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/131637, l='ServerLevel[world]', x=-888.66, y=97.00, z=264.19] died, message: 'entity.minecraft.villager.more_villargers.woodcutter burned to death'
+[14Jun2025 19:31:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Crops of the Wild]
+[14Jun2025 19:31:59.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/131436, l='ServerLevel[world]', x=-753.22, y=58.00, z=256.91]
+[14Jun2025 19:33:53.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 19:33:53.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 19:33:57.619] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:33:57.622] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:33:57.624] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1114, y=83, z=110}
+[14Jun2025 19:33:57.632] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:33:57.635] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:33:57.637] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1114, y=83, z=110}
+[14Jun2025 19:34:22.967] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:34:22.973] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1123, y=97, z=128}
+[14Jun2025 19:34:22.973] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:34:22.976] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1134, y=83, z=116}
+[14Jun2025 19:34:22.976] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1127, y=83, z=116}
+[14Jun2025 19:34:22.977] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1121, y=83, z=123}
+[14Jun2025 19:34:23.197] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:34:23.201] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:34:23.203] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1134, y=83, z=116}
+[14Jun2025 19:34:23.203] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1127, y=83, z=116}
+[14Jun2025 19:34:23.203] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1127, y=83, z=103}
+[14Jun2025 19:34:24.202] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:34:24.204] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:34:24.212] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:34:24.215] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:34:24.232] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1120, y=102, z=96}
+[14Jun2025 19:34:24.235] [Worker-Main-20/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1143, y=90, z=133}
+[14Jun2025 19:34:36.336] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:potoo
+[14Jun2025 19:37:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-781:~:135:1:false:0:Internal-overworld-waypoints
+[14Jun2025 19:38:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3032501853649592
+[14Jun2025 19:38:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6788155331269081
+[14Jun2025 19:38:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0567110162519384
+[14Jun2025 19:38:29.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.4334974060431023
+[14Jun2025 19:38:53.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 19:38:53.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

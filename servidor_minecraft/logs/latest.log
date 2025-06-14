@@ -2765,3 +2765,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [14Jun2025 19:27:08.349] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [14Jun2025 19:28:32.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 was slain by Vindicator, they gave up
 [14Jun2025 19:29:00.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[14Jun2025 19:29:47.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14Jun2025 19:30:08.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6119ms or 122 ticks behind
+[14Jun2025 19:30:53.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/131638, l='ServerLevel[world]', x=-893.97, y=97.00, z=277.78] died, message: 'Nitwit burned to death'
+[14Jun2025 19:30:53.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.hunter'/131752, l='ServerLevel[world]', x=-876.37, y=95.56, z=264.51] died, message: 'entity.minecraft.villager.more_villargers.hunter burned to death'
+[14Jun2025 19:30:53.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/131637, l='ServerLevel[world]', x=-888.66, y=97.00, z=264.19] died, message: 'entity.minecraft.villager.more_villargers.woodcutter burned to death'
+[14Jun2025 19:31:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Crops of the Wild]
+[14Jun2025 19:31:59.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/131436, l='ServerLevel[world]', x=-753.22, y=58.00, z=256.91]
+[14Jun2025 19:37:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-781:~:135:1:false:0:Internal-overworld-waypoints
+[14Jun2025 19:38:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3032501853649592
+[14Jun2025 19:38:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6788155331269081
+[14Jun2025 19:38:28.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0567110162519384
+[14Jun2025 19:38:29.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.4334974060431023

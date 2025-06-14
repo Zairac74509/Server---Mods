@@ -4414,6 +4414,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-14 19:33:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-06-14 19:12:52 +0000"
@@ -4429,6 +4435,12 @@
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_01": "2025-06-14 19:20:44 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-06-14 19:31:38 +0000"
     },
     "done": true
   },

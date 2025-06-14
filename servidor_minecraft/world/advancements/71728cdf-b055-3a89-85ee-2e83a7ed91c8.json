@@ -5423,6 +5423,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-06-14 19:31:11 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/ender_protector": {
     "criteria": {
       "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
@@ -5483,6 +5489,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 19:31:08 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/precious_bracelet": {
     "criteria": {
       "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
@@ -5504,6 +5516,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-14 19:15:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-06-14 19:31:08 +0000"
     },
     "done": true
   },
@@ -5573,6 +5591,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 19:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-14 19:19:28 +0000"
@@ -5588,6 +5612,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-06-14 19:31:08 +0000"
     },
     "done": true
   },
@@ -5651,9 +5681,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-14 19:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-14 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-06-14 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-06-14 19:31:08 +0000"
     },
     "done": true
   },
@@ -5684,6 +5738,12 @@
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-06-14 19:20:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-14 19:31:09 +0000"
     },
     "done": true
   },
