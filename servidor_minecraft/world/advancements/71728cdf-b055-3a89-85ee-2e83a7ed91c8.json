@@ -1258,6 +1258,7 @@
       "minecraft:pillager": "2025-06-14 16:31:40 +0000",
       "minecraft:skeleton": "2025-06-14 02:11:59 +0000",
       "minecraft:ravager": "2025-06-14 17:24:09 +0000",
+      "minecraft:hoglin": "2025-06-15 00:58:08 +0000",
       "minecraft:vindicator": "2025-06-14 17:29:38 +0000",
       "minecraft:magma_cube": "2025-06-15 00:39:47 +0000",
       "minecraft:spider": "2025-06-14 15:45:02 +0000",
@@ -5857,7 +5858,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-15 00:46:47 +0000",
-      "minecraft:nether_wastes": "2025-06-15 00:35:52 +0000"
+      "minecraft:nether_wastes": "2025-06-15 00:35:52 +0000",
+      "minecraft:soul_sand_valley": "2025-06-15 00:56:11 +0000"
     },
     "done": false
   },
