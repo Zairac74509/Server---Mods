@@ -115,6 +115,7 @@
       "minecraft:snowy_plains": "2025-06-14 15:55:10 +0000",
       "minecraft:dripstone_caves": "2025-06-14 02:57:29 +0000",
       "minecraft:grove": "2025-06-14 16:34:08 +0000",
+      "minecraft:swamp": "2025-06-15 19:29:11 +0000",
       "minecraft:cold_ocean": "2025-06-14 02:15:05 +0000",
       "minecraft:forest": "2025-06-14 01:54:09 +0000",
       "minecraft:lush_caves": "2025-06-14 03:01:39 +0000",
@@ -6147,12 +6148,6 @@
     },
     "done": true
   },
-  "ad_astra:under_pressure": {
-    "criteria": {
-      "has_compressor": "2025-06-15 19:14:32 +0000"
-    },
-    "done": true
-  },
   "ad_astra:carbon_footprint": {
     "criteria": {
       "has_coal_generator": "2025-06-15 19:14:14 +0000"
@@ -6162,6 +6157,132 @@
   "ad_astra:ad_astra": {
     "criteria": {
       "has_coal_generator": "2025-06-15 19:14:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2025-06-15 19:14:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-15 19:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-15 19:33:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-15 19:34:24 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/daisy_tea": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-15 19:33:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-15 19:41:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-06-15 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-06-15 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-06-15 19:41:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-15 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/sea_god_scroll": {
+    "criteria": {
+      "has_trident": "2025-06-15 19:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-15 19:33:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-15 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 19:34:25 +0000"
     },
     "done": true
   },
