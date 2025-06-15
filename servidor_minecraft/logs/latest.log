@@ -1125,3 +1125,163 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [15Jun2025 20:17:39.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [15Jun2025 20:17:39.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [15Jun2025 20:17:39.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 20:23:34.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:57093] logged in with entity id 48907 at (1195.3653718392702, 63.0, -739.6143090489995)
+[15Jun2025 20:23:34.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[15Jun2025 20:23:34.460] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[15Jun2025 20:23:34.460] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Jun2025 20:23:34.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[15Jun2025 20:23:37.197] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[15Jun2025 20:23:37.197] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[15Jun2025 20:28:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was killed by camilxdk1 using magic
+[15Jun2025 20:29:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> "Oh espíritu del agua y del aire, reúnanse en los cielos y formen una tormenta.Que los truenos retumben, que los rayos caigan.¡Cumulonimbus!"
+[15Jun2025 20:31:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was killed by camilxdk1 using magic
+[15Jun2025 20:33:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.vortex_of_the_deep
+[15Jun2025 20:42:26.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.777139871564259
+[15Jun2025 20:42:26.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.7118803709124677
+[15Jun2025 20:42:26.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.6466208924507555
+[15Jun2025 20:42:27.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.5813614258624966
+[15Jun2025 20:42:27.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.2671757327402702
+[15Jun2025 20:42:27.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.621952248653687
+[15Jun2025 20:42:28.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/54203, l='ServerLevel[world]', x=1346.30, y=70.85, z=-722.86]
+[15Jun2025 20:44:52.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Fool's Folly]
+[15Jun2025 20:48:18.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[15Jun2025 20:48:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[15Jun2025 20:48:18.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[15Jun2025 20:48:29.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:60187] logged in with entity id 57377 at (1583.0671929692219, 81.0, -557.8688535247412)
+[15Jun2025 20:48:29.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[15Jun2025 20:48:29.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zairac74509...
+[15Jun2025 20:48:29.839] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Jun2025 20:48:29.840] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zairac74509
+[15Jun2025 20:48:30.181] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[15Jun2025 20:48:30.182] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[15Jun2025 20:49:54.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Surge Protector]
+[15Jun2025 20:49:55.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/54345, l='ServerLevel[world]', x=1442.70, y=77.00, z=-530.55] died, message: 'Farmer was killed by camilxdk1 using magic'
+[15Jun2025 20:52:27.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/58651, l='ServerLevel[world]', x=1543.85, y=63.00, z=-136.29]
+[15Jun2025 20:53:24.982] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/58879, l='ServerLevel[world]', x=1625.37, y=63.00, z=7.14]
+[15Jun2025 20:53:36.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4225807500500167
+[15Jun2025 20:53:47.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> OE
+[15Jun2025 20:53:49.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/58879, l='ServerLevel[world]', x=1640.03, y=70.85, z=83.74]
+[15Jun2025 20:54:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed every effect from Zairac74509
+[15Jun2025 20:57:08.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/58879, l='ServerLevel[world]', x=1713.12, y=63.00, z=349.75]
+[15Jun2025 20:57:38.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3452315543254372
+[15Jun2025 20:57:38.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.098647440996956
+[15Jun2025 20:57:38.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.8554447615831577
+[15Jun2025 20:57:38.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.6140514200385496
+[15Jun2025 20:57:38.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.3736262191134756
+[15Jun2025 20:58:22.607] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[15Jun2025 20:58:22.639] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[15Jun2025 20:58:22.640] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[15Jun2025 20:58:22.640] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[15Jun2025 20:58:29.292] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[15Jun2025 20:58:29.382] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[15Jun2025 20:59:45.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was killed by camilxdk1 using magic
+[15Jun2025 20:59:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Who You Gonna Call?]
+[15Jun2025 21:02:23.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[15Jun2025 21:02:23.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[15Jun2025 21:02:23.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[15Jun2025 21:03:45.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:35491] logged in with entity id 66377 at (1441.5, 106.03584062504456, 640.5)
+[15Jun2025 21:03:45.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[15Jun2025 21:03:45.316] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[15Jun2025 21:03:45.316] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Jun2025 21:03:45.316] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[15Jun2025 21:03:46.055] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[15Jun2025 21:03:46.055] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[15Jun2025 21:03:58.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/65984, l='ServerLevel[world]', x=1267.32, y=76.00, z=637.30]
+[15Jun2025 21:04:07.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.48872652081809065
+[15Jun2025 21:04:07.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.4242848692857706
+[15Jun2025 21:04:07.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.36309770615253
+[15Jun2025 21:04:07.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.3051702139118788
+[15Jun2025 21:04:07.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.2500004548825245
+[15Jun2025 21:04:08.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.26858021269265464
+[15Jun2025 21:04:09.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.44635351033866755
+[15Jun2025 21:04:09.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.25644861887462866
+[15Jun2025 21:04:09.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.6685384211932615
+[15Jun2025 21:04:09.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1781117996069952
+[15Jun2025 21:04:09.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9756890611374729
+[15Jun2025 21:04:09.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.5451663951728278
+[15Jun2025 21:04:09.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1466971415052285
+[15Jun2025 21:04:11.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.295969485169735
+[15Jun2025 21:04:11.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7503063408587423
+[15Jun2025 21:04:11.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.2893824190080068
+[15Jun2025 21:04:11.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.8738007655779256
+[15Jun2025 21:04:11.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4824808559524172
+[15Jun2025 21:04:11.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1041429217098084
+[15Jun2025 21:04:11.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3865670509699157
+[15Jun2025 21:04:12.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3814157760641592
+[15Jun2025 21:04:12.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1269921060308212
+[15Jun2025 21:06:35.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/65984, l='ServerLevel[world]', x=1358.75, y=96.00, z=580.65]
+[15Jun2025 21:07:57.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4114764306013967
+[15Jun2025 21:07:57.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.2144535191878276
+[15Jun2025 21:07:57.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.026372558317007
+[15Jun2025 21:07:57.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.842505753190835
+[15Jun2025 21:07:57.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.660893858782174
+[15Jun2025 21:07:57.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.480488522140604
+[15Jun2025 21:07:59.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7863342639327584
+[15Jun2025 21:08:51.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/65436, l='ServerLevel[world]', x=1414.50, y=113.00, z=567.50] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was sucked dry fighting camilxdk1'
+[15Jun2025 21:13:08.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3540894035738802
+[15Jun2025 21:13:08.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7460893752513584
+[15Jun2025 21:13:09.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.33433783212933577
+[15Jun2025 21:13:09.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:09.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:09.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:09.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:10.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5170574693761409
+[15Jun2025 21:13:10.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:10.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:10.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:10.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[15Jun2025 21:13:11.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2790167267471588
+[15Jun2025 21:13:11.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7120976920728026
+[15Jun2025 21:13:11.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.45334637572204883
+[15Jun2025 21:13:11.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.2028261336192827
+[15Jun2025 21:13:11.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2736835175679744
+[15Jun2025 21:13:12.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9733964083707178
+[15Jun2025 21:13:12.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6962290517043357
+[15Jun2025 21:13:12.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.42314766318122565
+[15Jun2025 21:14:14.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/73289, l='ServerLevel[world]', x=1362.33, y=64.00, z=717.82]
+[15Jun2025 21:15:43.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.38720349415734745
+[15Jun2025 21:17:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Chest Slayer]
+[15Jun2025 21:22:01.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.27645861993164544
+[15Jun2025 21:22:01.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6850088533740291
+[15Jun2025 21:22:01.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0992415749378779
+[15Jun2025 21:22:02.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.5164277587180095
+[15Jun2025 21:22:02.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.9351053079244593
+[15Jun2025 21:22:45.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/79699, l='ServerLevel[world]', x=1150.70, y=85.00, z=1087.59] died, message: 'Villager was slain by Iron Golem'
+[15Jun2025 21:25:50.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Another Brick in the Wall]
+[15Jun2025 21:28:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Yuck!]
+[15Jun2025 21:28:28.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/82544, l='ServerLevel[world]', x=272.32, y=86.00, z=915.99] died, message: 'death.attack.traveloptics.vortex_of_the_deep'
+[15Jun2025 21:28:43.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71270, l='ServerLevel[world]', x=1745.54, y=66.18, z=-274.03] died, message: 'Villager was slain by Zombie'
+[15Jun2025 21:28:49.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/83149, l='ServerLevel[world]', x=308.58, y=78.00, z=934.51] died, message: 'Angry Villager was slain by Adrian DraxWind'
+[15Jun2025 21:29:17.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Flaming Sword]
+[15Jun2025 21:29:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:271:87:885:8:false:0:Internal-overworld-waypoints
+[15Jun2025 21:30:08.346] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/83144, l='ServerLevel[world]', x=282.17, y=86.00, z=875.05] died, message: 'death.attack.traveloptics.ashen_breath'
+[15Jun2025 21:30:44.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/83145, l='ServerLevel[world]', x=277.30, y=84.94, z=908.30] died, message: 'Angry Villager was killed by camilxdk1 using magic'
+[15Jun2025 21:30:45.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/83147, l='ServerLevel[world]', x=281.30, y=87.00, z=890.02] died, message: 'Angry Villager was killed by camilxdk1 using magic'
+[15Jun2025 21:31:15.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/83146, l='ServerLevel[world]', x=280.93, y=87.50, z=878.95] died, message: 'death.attack.traveloptics.ashen_breath'
+[15Jun2025 21:33:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Plant Food]
+[15Jun2025 21:34:34.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/82617, l='ServerLevel[world]', x=271.73, y=86.00, z=875.79] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was slain by Tiger'
+[15Jun2025 21:36:08.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/83148, l='ServerLevel[world]', x=308.70, y=68.00, z=1066.50] died, message: 'Angry Villager was roasted by camilxdk1's dragon breath'
+[15Jun2025 21:36:50.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[15Jun2025 21:37:30.908] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[15Jun2025 21:37:30.908] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[15Jun2025 21:37:30.908] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[15Jun2025 21:37:30.909] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[15Jun2025 21:37:30.918] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[15Jun2025 21:37:30.918] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[15Jun2025 21:37:33.609] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[15Jun2025 21:40:49.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 0.5421681325557302
+[15Jun2025 21:40:49.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 0.5653435456994202
+[15Jun2025 21:40:50.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 2.5140210113346484
+[15Jun2025 21:40:50.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 2.434438800881253
+[15Jun2025 21:40:50.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 1.342800571888347
+[15Jun2025 21:41:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed every effect from Zairac74509
+[15Jun2025 21:45:09.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 0.4712479200489952
+[15Jun2025 21:45:09.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 1.4475434749458316
+[15Jun2025 21:45:09.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 2.4582494499219365
+[15Jun2025 21:45:09.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 3.454452845176661
+[15Jun2025 21:48:36.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.vortex_of_the_deep
+[15Jun2025 21:50:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Rotten to the Core]
+[15Jun2025 21:50:47.281] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[15Jun2025 21:50:47.281] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[15Jun2025 21:52:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Surge Protector]
+[15Jun2025 21:52:20.346] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/99871, l='ServerLevel[world]', x=261.18, y=87.94, z=943.78] died, message: 'death.attack.traveloptics.vortex_of_the_deep'

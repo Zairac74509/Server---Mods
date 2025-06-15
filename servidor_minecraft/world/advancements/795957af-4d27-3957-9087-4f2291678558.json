@@ -103,6 +103,7 @@
       "minecraft:frozen_river": "2025-06-14 16:33:22 +0000",
       "minecraft:cherry_grove": "2025-06-14 19:04:32 +0000",
       "minecraft:sunflower_plains": "2025-06-14 19:04:58 +0000",
+      "minecraft:birch_forest": "2025-06-15 21:24:17 +0000",
       "minecraft:windswept_hills": "2025-06-14 18:00:04 +0000",
       "minecraft:beach": "2025-06-14 19:48:01 +0000",
       "minecraft:stony_peaks": "2025-06-14 20:14:22 +0000",
@@ -123,6 +124,7 @@
       "minecraft:deep_frozen_ocean": "2025-06-14 18:36:22 +0000",
       "minecraft:jungle": "2025-06-14 20:14:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-14 03:40:20 +0000",
+      "minecraft:snowy_beach": "2025-06-15 20:25:23 +0000",
       "minecraft:warm_ocean": "2025-06-14 20:30:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-14 20:15:53 +0000",
       "minecraft:flower_forest": "2025-06-14 19:22:08 +0000",
@@ -1725,9 +1727,11 @@
       "minecraft:vindicator": "2025-06-14 18:14:01 +0000",
       "minecraft:spider": "2025-06-14 02:43:29 +0000",
       "minecraft:piglin_brute": "2025-06-15 00:31:25 +0000",
+      "minecraft:creeper": "2025-06-15 20:31:39 +0000",
       "minecraft:phantom": "2025-06-14 19:56:31 +0000",
       "minecraft:zombified_piglin": "2025-06-15 00:32:04 +0000",
       "minecraft:piglin": "2025-06-15 00:23:40 +0000",
+      "minecraft:stray": "2025-06-15 20:26:46 +0000",
       "minecraft:zombie": "2025-06-14 02:30:08 +0000"
     },
     "done": false
@@ -3837,9 +3841,10 @@
   },
   "vampirism:vampire/yuck": {
     "criteria": {
-      "main": "2025-06-14 16:19:27 +0000"
+      "main": "2025-06-14 16:19:27 +0000",
+      "flower": "2025-06-15 21:28:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/sniped": {
     "criteria": {
@@ -4767,57 +4772,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-06-15 19:12:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-06-15 20:02:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-06-15 19:53:01 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:19 +0000"
     },
     "done": true
   },
@@ -4827,33 +4784,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2025-06-15 20:02:01 +0000"
     },
     "done": true
   },
@@ -4869,33 +4802,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_ice_dragon": "2025-06-15 20:01:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
     },
     "done": true
   },
@@ -4905,81 +4814,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-06-15 20:02:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-15 20:02:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
     },
     "done": true
   },
@@ -4995,51 +4832,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-06-15 19:53:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-06-15 20:02:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
-    "criteria": {
-      "has_dragonscales_blue": "2025-06-15 19:39:19 +0000"
     },
     "done": true
   },
@@ -5049,33 +4844,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-06-15 19:53:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_boots": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:19 +0000"
     },
     "done": true
   },
@@ -5085,15 +4856,297 @@
     },
     "done": true
   },
-  "celestial_artifacts:recipes/misc/copper_reinforce_plate": {
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 19:12:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-06-15 19:12:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-15 19:18:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-15 19:35:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-06-15 19:39:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 19:39:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 19:50:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_boots": {
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
-      "has_item": "2025-06-15 20:02:01 +0000"
+      "has_ingots_copper": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/copper_reinforce_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-15 19:50:29 +0000"
     },
     "done": true
   },
@@ -5109,54 +5162,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_helmet": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-06-15 19:18:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-06-15 19:50:29 +0000"
@@ -5169,39 +5174,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-06-15 19:55:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-06-15 19:35:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-06-15 19:53:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
     },
     "done": true
   },
@@ -5211,45 +5186,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
-    "criteria": {
-      "gold": "2025-06-15 19:12:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-06-15 19:50:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:11 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-06-15 19:39:15 +0000"
     },
     "done": true
   },
@@ -5259,9 +5198,219 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+  "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
-      "has_sign": "2025-06-15 19:09:52 +0000"
+      "has_item": "2025-06-15 19:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-15 19:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-06-15 19:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-15 19:53:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-06-15 19:55:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-06-15 20:01:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-15 20:02:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-06-15 20:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 20:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 20:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-15 20:49:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-15 20:59:48 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/magic_arrow_bag": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/ender_protector": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-15 21:32:38 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/precious_bracelet": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-06-15 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-15 21:32:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-06-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-15 21:17:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-06-15 21:33:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-06-15 21:50:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-06-15 21:32:53 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-15 21:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-15 21:41:15 +0000"
     },
     "done": true
   },
