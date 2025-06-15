@@ -1075,3 +1075,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [15Jun2025 19:41:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Vampire Diaries]
 [15Jun2025 20:01:30.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Dragonslayer]
 [15Jun2025 20:02:04.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Mother of Dragons]
+[15Jun2025 20:05:55.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Mother of Dragons]
+[15Jun2025 20:11:16.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[15Jun2025 20:11:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[15Jun2025 20:11:16.537] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[15Jun2025 20:11:16.593] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

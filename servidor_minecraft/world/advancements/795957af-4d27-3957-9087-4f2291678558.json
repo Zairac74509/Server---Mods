@@ -4797,6 +4797,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-06-15 19:53:01 +0000"
@@ -4845,6 +4851,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
@@ -4854,6 +4866,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-15 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-06-15 20:01:30 +0000"
     },
     "done": true
   },
@@ -4911,6 +4929,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-06-15 20:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 19:50:29 +0000"
@@ -4932,6 +4956,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-06-15 19:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
     },
     "done": true
   },
@@ -4986,6 +5016,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-15 20:02:04 +0000"
     },
     "done": true
   },
@@ -5052,6 +5088,12 @@
   "celestial_artifacts:recipes/misc/copper_reinforce_plate": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 19:50:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 20:02:01 +0000"
     },
     "done": true
   },
