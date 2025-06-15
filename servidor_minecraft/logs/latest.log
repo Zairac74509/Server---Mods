@@ -916,3 +916,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [15Jun2025 18:45:27.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.1850740490405807
 [15Jun2025 18:45:27.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.842102865531727
 [15Jun2025 18:45:28.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3719789048124085
+[15Jun2025 18:52:53.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:34221] logged in with entity id 5087 at (-97.30000001192093, 35.0, -204.30000001192093)
+[15Jun2025 18:52:53.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[15Jun2025 18:52:53.241] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to camilxdk1...
+[15Jun2025 18:52:53.241] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Jun2025 18:52:53.242] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to camilxdk1
+[15Jun2025 18:52:55.736] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[15Jun2025 18:52:55.739] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[15Jun2025 18:57:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> cuente
+[15Jun2025 18:58:21.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/503, l='ServerLevel[world]', x=-936.50, y=94.00, z=-1031.50] died, message: 'entity.minecraft.villager.more_villargers.woodcutter's life was severed by Zairac74509'
+[15Jun2025 18:58:44.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['entity.minecraft.villager.more_villargers.woodcutter'/475, l='ServerLevel[world]', x=-936.50, y=92.00, z=-1024.50] died, message: 'entity.minecraft.villager.more_villargers.woodcutter couldn't take Zairac74509's heat'
+[15Jun2025 18:59:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> ole es q en el periodo pasado , osea el primero , yo perdí 4 materias por no ir al colegio y me quedaron en 27 o 28 , y en el segundo periodo las recupere , osea no las perdí y las llevo pasando en definitiva y este periodo perdí 2 por la misma razestteasí
+[15Jun2025 19:00:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> y me dijo q si yo no recuperaba el primer periodo osea eso me hacía perder las materias del segundo periodo
+[15Jun2025 19:01:09.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4404028066509227
+[15Jun2025 19:01:09.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1258982665948452
+[15Jun2025 19:01:09.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.8847632810704908
+[15Jun2025 19:01:09.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.4782102440856306
+[15Jun2025 19:01:09.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.8743798502098343
+[15Jun2025 19:01:11.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.42318783081941547
+[15Jun2025 19:01:11.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.2559084302977226
+[15Jun2025 19:01:12.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.141541010542369
+[15Jun2025 19:01:12.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.0554857367440036
+[15Jun2025 19:01:12.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4157312353240741
+[15Jun2025 19:01:12.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.056160440227245
+[15Jun2025 19:01:12.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.3988413389901098
+[15Jun2025 19:01:12.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.5822030555981428
+[15Jun2025 19:01:12.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.6803162543168355
+[15Jun2025 19:01:12.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.7328146707850465
+[15Jun2025 19:01:26.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> cuente
