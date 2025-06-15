@@ -9325,3 +9325,63 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [15Jun2025 18:39:47.563] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan
 [15Jun2025 18:40:26.462] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from attributeslib.mixins.json into net.minecraft.world.damagesource.CombatRules
 [15Jun2025 18:40:26.472] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[15Jun2025 18:42:14.907] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
+[15Jun2025 18:42:15.218] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[15Jun2025 18:42:15.560] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[15Jun2025 18:42:15.560] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md8df9ff$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[15Jun2025 18:42:19.515] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[15Jun2025 18:42:21.960] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[15Jun2025 18:42:21.970] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[15Jun2025 18:42:54.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.2632103472126346
+[15Jun2025 18:42:54.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7032868657059907
+[15Jun2025 18:42:54.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9885054780113478
+[15Jun2025 18:42:54.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.1621256513974458
+[15Jun2025 18:42:58.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 18:42:58.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 18:43:02.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.2675332387425442
+[15Jun2025 18:43:02.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.5300224098746185
+[15Jun2025 18:43:02.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.2864444682809335
+[15Jun2025 18:43:02.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.9043009867741603
+[15Jun2025 18:43:02.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.452300379632561
+[15Jun2025 18:43:02.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.9646804152234836
+[15Jun2025 18:43:02.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.4496260998396338
+[15Jun2025 18:43:10.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.38259333184191746
+[15Jun2025 18:43:10.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.0
+[15Jun2025 18:43:10.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.0
+[15Jun2025 18:43:58.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.26263195821707086
+[15Jun2025 18:43:58.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9923750294932461
+[15Jun2025 18:44:10.356] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[15Jun2025 18:44:51.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.35817393352658655
+[15Jun2025 18:44:51.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.2991811469141794
+[15Jun2025 18:44:51.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.2427912471700893
+[15Jun2025 18:44:51.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.30064073037328853
+[15Jun2025 18:44:53.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.36211223297198103
+[15Jun2025 18:44:53.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.249309372704829
+[15Jun2025 18:44:54.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.6180720972395193
+[15Jun2025 18:44:54.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.5555458508881657
+[15Jun2025 18:44:54.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.460301600273624
+[15Jun2025 18:44:54.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.3446897205300274
+[15Jun2025 18:44:54.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.224688853865473
+[15Jun2025 18:44:54.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.1110780601094348
+[15Jun2025 18:44:54.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.30988273032403413
+[15Jun2025 18:45:11.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.25340144290692024
+[15Jun2025 18:45:11.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7265270832256192
+[15Jun2025 18:45:11.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3357176697500108
+[15Jun2025 18:45:11.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.8648788643604348
+[15Jun2025 18:45:11.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.5024132006078617
+[15Jun2025 18:45:11.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.44432088964867944
+[15Jun2025 18:45:11.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9107141054496424
+[15Jun2025 18:45:16.094] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[15Jun2025 18:45:18.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.7787640812891823
+[15Jun2025 18:45:18.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.7058070094956292
+[15Jun2025 18:45:18.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.6328533140404033
+[15Jun2025 18:45:18.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.559901425196472
+[15Jun2025 18:45:18.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 4.4869505030342225
+[15Jun2025 18:45:27.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.4974354432291681
+[15Jun2025 18:45:27.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.336676556765281
+[15Jun2025 18:45:27.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 2.247594901834251
+[15Jun2025 18:45:27.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.1850740490405807
+[15Jun2025 18:45:27.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 3.842102865531727
+[15Jun2025 18:45:28.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.3719789048124085
+[15Jun2025 18:47:58.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 18:47:58.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
