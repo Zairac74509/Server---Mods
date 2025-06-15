@@ -960,3 +960,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [15Jun2025 19:04:45.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9729083248423649
 [15Jun2025 19:04:45.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 0.9945194785440208
 [15Jun2025 19:05:49.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/7857, l='ServerLevel[world]', x=-912.28, y=113.00, z=-1035.25]
+[15Jun2025 19:12:30.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1195, y=65, z=-722} BlockPos{x=1194, y=63, z=-723}
+[15Jun2025 19:12:34.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1190, y=65, z=-727} BlockPos{x=1191, y=63, z=-730}
+[15Jun2025 19:12:34.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1190, y=65, z=-727} BlockPos{x=1191, y=63, z=-730}
+[15Jun2025 19:12:34.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1190, y=65, z=-727} BlockPos{x=1191, y=63, z=-730}
+[15Jun2025 19:14:14.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Carbon Footprint]
+[15Jun2025 19:14:32.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Under Pressure]
+[15Jun2025 19:15:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[15Jun2025 19:15:36.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[15Jun2025 19:15:39.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[15Jun2025 19:16:03.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was suffocated by camilxdk1's poisonous cloud
+[15Jun2025 19:19:59.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[15Jun2025 19:20:03.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[15Jun2025 19:20:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[15Jun2025 19:20:11.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[15Jun2025 19:20:13.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[15Jun2025 19:20:24.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[15Jun2025 19:20:28.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[15Jun2025 19:20:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[15Jun2025 19:21:04.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[15Jun2025 19:21:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[15Jun2025 19:21:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
