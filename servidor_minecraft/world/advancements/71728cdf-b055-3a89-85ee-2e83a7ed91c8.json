@@ -116,8 +116,10 @@
       "minecraft:stony_shore": "2025-06-14 01:55:41 +0000",
       "minecraft:snowy_plains": "2025-06-14 15:55:10 +0000",
       "minecraft:dripstone_caves": "2025-06-14 02:57:29 +0000",
+      "minecraft:snowy_taiga": "2025-06-16 14:26:25 +0000",
       "minecraft:grove": "2025-06-14 16:34:08 +0000",
       "minecraft:swamp": "2025-06-15 19:29:11 +0000",
+      "minecraft:jagged_peaks": "2025-06-16 14:27:44 +0000",
       "minecraft:cold_ocean": "2025-06-14 02:15:05 +0000",
       "minecraft:forest": "2025-06-14 01:54:09 +0000",
       "minecraft:lush_caves": "2025-06-14 03:01:39 +0000",
@@ -7910,6 +7912,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 13:06:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-16 14:22:55 +0000"
     },
     "done": true
   },
