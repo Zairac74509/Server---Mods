@@ -131,6 +131,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-14 18:47:56 +0000",
       "minecraft:frozen_peaks": "2025-06-14 16:33:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-14 23:21:07 +0000",
+      "minecraft:deep_dark": "2025-06-16 13:40:42 +0000",
       "minecraft:meadow": "2025-06-14 17:13:15 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-14 17:59:51 +0000",
       "minecraft:savanna": "2025-06-14 18:45:13 +0000",
@@ -7804,6 +7805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-16 13:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-16 13:06:05 +0000"
@@ -7876,6 +7883,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-06-16 13:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-16 13:01:07 +0000"
@@ -7885,6 +7898,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-16 13:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-16 13:40:50 +0000"
     },
     "done": true
   },
