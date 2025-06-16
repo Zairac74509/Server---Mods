@@ -965,3 +965,5 @@ Caused by: java.lang.NullPointerException
 [16Jun2025 13:01:34.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
 [16Jun2025 13:01:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
 [16Jun2025 13:11:28.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Seedy Place]
+[16Jun2025 13:26:23.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed every effect from Zairac74509
+[16Jun2025 13:30:09.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [It's Purple!]
