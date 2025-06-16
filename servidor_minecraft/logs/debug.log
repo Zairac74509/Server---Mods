@@ -10030,3 +10030,12 @@ Caused by: java.lang.NullPointerException
 [16Jun2025 14:43:34.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [af07d550-8571-476f-8915-5e9c5257c79b]
 [16Jun2025 14:45:16.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 14:45:16.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 14:46:33.778] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:vortex_of_the_deep 1: [af07d550-8571-476f-8915-5e9c5257c79b]
+[16Jun2025 14:50:16.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 14:50:16.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 14:55:16.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 14:55:16.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 14:55:40.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Jun2025 14:55:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Jun2025 14:55:40.431] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zairac74509
+[16Jun2025 14:55:40.431] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509

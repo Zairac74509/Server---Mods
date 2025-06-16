@@ -1080,3 +1080,6 @@ Caused by: java.lang.NullPointerException
 [16Jun2025 14:32:33.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.0
 [16Jun2025 14:32:33.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.0
 [16Jun2025 14:32:33.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Zairac74509) moved wrongly! 1.0
+[16Jun2025 14:55:40.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[16Jun2025 14:55:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[16Jun2025 14:55:40.431] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
