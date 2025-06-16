@@ -7308,6 +7308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-16 12:46:12 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
     "criteria": {
       "has_dye": "2025-06-16 12:46:15 +0000"
@@ -7320,39 +7326,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
-    "criteria": {
-      "has_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-06-16 12:46:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/building_blocks/dye_yellow_bar_stool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/red_industrial_lamp": {
-    "criteria": {
-      "has_red_industrial_lamp": "2025-06-16 12:49:44 +0000"
     },
     "done": true
   },
@@ -7368,63 +7344,15 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
-    "criteria": {
-      "has_dye": "2025-06-16 12:49:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 12:49:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 12:49:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-16 12:46:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_yellow_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/blue_industrial_lamp": {
     "criteria": {
       "has_blue_industrial_lamp": "2025-06-16 12:46:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_yellow_dye": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-06-16 12:49:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-06-16 12:46:12 +0000"
     },
     "done": true
   },
@@ -7452,15 +7380,105 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_blue_industrial_lamp": {
+    "criteria": {
+      "has_small_blue_industrial_lamp": "2025-06-16 12:46:15 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dye_blue_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:46:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
+    "criteria": {
+      "has_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dye_yellow_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/yellow_industrial_lamp": {
     "criteria": {
       "has_yellow_industrial_lamp": "2025-06-16 12:48:11 +0000"
     },
     "done": true
   },
-  "ad_astra:recipes/misc/small_blue_industrial_lamp": {
+  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
     "criteria": {
-      "has_small_blue_industrial_lamp": "2025-06-16 12:46:15 +0000"
+      "has_small_yellow_industrial_lamp": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:48:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-06-16 12:49:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_dye": "2025-06-16 12:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-06-16 12:49:44 +0000"
     },
     "done": true
   },
@@ -7482,12 +7500,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/small_yellow_industrial_lamp": {
-    "criteria": {
-      "has_small_yellow_industrial_lamp": "2025-06-16 12:48:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-06-16 12:49:44 +0000"
@@ -7500,15 +7512,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
     "criteria": {
-      "has_needed_dye": "2025-06-16 12:48:11 +0000"
+      "has_small_white_industrial_lamp": "2025-06-16 12:50:31 +0000"
     },
     "done": true
   },
-  "vampiresdelight:recipes/building_blocks/dye_blue_bar_stool": {
+  "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
-      "has_needed_dye": "2025-06-16 12:46:15 +0000"
+      "has_needed_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/dye_white_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 12:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-16 12:50:31 +0000"
     },
     "done": true
   },
