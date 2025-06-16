@@ -7655,6 +7655,12 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/gallop_necklace": {
+    "criteria": {
+      "has_unowned_pendant": "2025-06-16 14:09:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-06-16 13:56:51 +0000"

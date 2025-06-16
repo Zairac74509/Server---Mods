@@ -968,3 +968,7 @@ Caused by: java.lang.NullPointerException
 [16Jun2025 13:26:23.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed every effect from Zairac74509
 [16Jun2025 13:30:09.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [It's Purple!]
 [16Jun2025 13:40:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sneak 100]
+[16Jun2025 14:13:49.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Zairac74509 a server operator
+[16Jun2025 14:13:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[16Jun2025 14:14:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[16Jun2025 14:14:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
