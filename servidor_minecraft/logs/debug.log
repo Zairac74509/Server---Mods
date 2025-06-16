@@ -9905,3 +9905,10 @@ Caused by: java.lang.NullPointerException
 [16Jun2025 14:13:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
 [16Jun2025 14:14:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
 [16Jun2025 14:14:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[16Jun2025 14:15:16.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 14:15:16.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 14:17:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Cutest Predator]
+[16Jun2025 14:20:16.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 14:20:16.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 14:21:55.542] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.94 and blood value 0 for entity alexsmobs:moose
+[16Jun2025 14:22:55.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Pic-A-Nic Basket?]

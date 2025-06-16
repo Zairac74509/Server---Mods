@@ -972,3 +972,5 @@ Caused by: java.lang.NullPointerException
 [16Jun2025 14:13:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
 [16Jun2025 14:14:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
 [16Jun2025 14:14:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Zairac74509 no longer a server operator]
+[16Jun2025 14:17:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Cutest Predator]
+[16Jun2025 14:22:55.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Pic-A-Nic Basket?]
